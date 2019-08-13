@@ -2593,6 +2593,207 @@ wrcbe:map:0, Wireless Map #0
 wrcbe:tracker, Wireless Tracker
 wrcbe:rep, REP
 wrcbe:p_sniffer, Private Sniffer
+libvulpes:blockphantom, tile.blockPhantom.name
+libvulpes:hatch:0, Input Hatch
+libvulpes:hatch:1, Output Hatch
+libvulpes:hatch:2, Fluid Input Hatch
+libvulpes:hatch:3, Fluid Output Hatch
+libvulpes:placeholder, Machine
+libvulpes:structuremachine, Machine Structure
+libvulpes:creativepowerbattery, Creative Power Input Plug
+libvulpes:forgepowerinput, Power Input Plug
+libvulpes:forgepoweroutput, Power Output Plug
+libvulpes:coalgenerator, Coal Generator
+libvulpes:motor, Motor
+libvulpes:advancedmotor, Advanced Motor
+libvulpes:enhancedmotor, Enhanced Motor
+libvulpes:elitemotor, Elite Motor
+libvulpes:advstructuremachine, Advanced Machine Structure
+libvulpes:productdust:0, Dilithium Dust
+libvulpes:productdust:1, Iron Dust
+libvulpes:productdust:2, Gold Dust
+libvulpes:productdust:3, Silicon Dust
+libvulpes:productdust:4, Copper Dust
+libvulpes:productdust:5, Tin Dust
+libvulpes:productdust:6, Steel Dust
+libvulpes:productdust:7, Titanium Dust
+libvulpes:productdust:9, Aluminum Dust
+libvulpes:productdust:10, Iridium Dust
+libvulpes:productingot:3, Silicon Ingot
+libvulpes:productingot:4, Copper Ingot
+libvulpes:productingot:5, Tin Ingot
+libvulpes:productingot:6, Steel Ingot
+libvulpes:productingot:7, Titanium Ingot
+libvulpes:productingot:9, Aluminum Ingot
+libvulpes:productingot:10, Iridium Ingot
+libvulpes:productcrystal:0, Dilithium Crystal
+libvulpes:productboule:3, Silicon Boule
+libvulpes:productnugget:3, Silicon Nugget
+libvulpes:productnugget:4, Copper Nugget
+libvulpes:productnugget:5, Tin Nugget
+libvulpes:productnugget:6, Steel Nugget
+libvulpes:productnugget:7, Titanium Nugget
+libvulpes:productnugget:9, Aluminum Nugget
+libvulpes:productnugget:10, Iridium Nugget
+libvulpes:productplate:1, Iron Plate
+libvulpes:productplate:2, Gold Plate
+libvulpes:productplate:3, Silicon Plate
+libvulpes:productplate:4, Copper Plate
+libvulpes:productplate:5, Tin Plate
+libvulpes:productplate:6, Steel Plate
+libvulpes:productplate:7, Titanium Plate
+libvulpes:productplate:9, Aluminum Plate
+libvulpes:productplate:10, Iridium Plate
+libvulpes:productrod:1, Iron Rod
+libvulpes:productrod:4, Copper Rod
+libvulpes:productrod:6, Steel Rod
+libvulpes:productrod:7, Titanium Rod
+libvulpes:productrod:10, Iridium Rod
+libvulpes:productfan:6, Steel Fan
+libvulpes:productsheet:1, Iron Sheet
+libvulpes:productsheet:4, Copper Sheet
+libvulpes:productsheet:6, Steel Sheet
+libvulpes:productsheet:7, Titanium Sheet
+libvulpes:productsheet:9, Aluminum Sheet
+libvulpes:productgear:6, Steel Gear
+libvulpes:productgear:7, Titanium Gear
+libvulpes:ore0:0, Dilithium Ore
+libvulpes:ore0:4, Copper Ore
+libvulpes:ore0:5, Tin Ore
+libvulpes:ore0:8, Rutile Ore
+libvulpes:ore0:9, Aluminum Ore
+libvulpes:ore0:10, Iridium Ore
+libvulpes:metal0:4, Copper Block
+libvulpes:metal0:5, Tin Block
+libvulpes:metal0:6, Steel Block
+libvulpes:metal0:7, Titanium Block
+libvulpes:metal0:9, Aluminum Block
+libvulpes:metal0:10, Iridium Block
+libvulpes:coil0:2, Gold Coil
+libvulpes:coil0:4, Copper Coil
+libvulpes:coil0:7, Titanium Coil
+libvulpes:coil0:9, Aluminum Coil
+libvulpes:coil0:10, Iridium Coil
+advancedrocketry:datapipe, Data Cable(Deprecated)
+advancedrocketry:energypipe, Energy Pipe(Deprecated)
+advancedrocketry:liquidpipe, Liquid Pipe(Deprecated)
+advancedrocketry:launchpad, Launch Pad
+advancedrocketry:rocketbuilder, Rocket Assembling Machine
+advancedrocketry:structuretower, Structure Tower
+advancedrocketry:seat, Seat
+advancedrocketry:rocketmotor, Liquid Fueled Engine
+advancedrocketry:advrocketmotor, Advanced Rocket Engine
+advancedrocketry:fueltank, Liquid Fuel Tank
+advancedrocketry:fuelingstation, Fueling station
+advancedrocketry:monitoringstation, Rocket Monitoring Station
+advancedrocketry:satellitebuilder, Satellite Builder
+advancedrocketry:moonturf, Moon Turf
+advancedrocketry:moonturf_dark, Dark Moon Turf
+advancedrocketry:hotturf, Oxidized Ferric Sand
+advancedrocketry:loader:0, Data Bus
+advancedrocketry:loader:1, Satellite Bay
+advancedrocketry:loader:2, Rocket Unloader
+advancedrocketry:loader:3, Rocket Loader
+advancedrocketry:loader:4, Rocket Fluid Unloader
+advancedrocketry:loader:5, Rocket Fluid Loader
+advancedrocketry:loader:6, Guidance Computer Access Hatch
+advancedrocketry:precisionassemblingmachine, Precision Assembler
+advancedrocketry:blastbrick, HeatProof Brick
+advancedrocketry:quartzcrucible, Quartz Crucible
+advancedrocketry:crystallizer, Crystallizer
+advancedrocketry:cuttingmachine, Cutting Machine
+advancedrocketry:alienwood, Wood
+advancedrocketry:alienleaves, Lightwood Leaves
+advancedrocketry:aliensapling, Lightwood Sapling
+advancedrocketry:observatory, Observatory
+advancedrocketry:blackholegenerator, Black Hole Generator
+advancedrocketry:concrete, Concrete
+advancedrocketry:planetselector, Planet Selector
+advancedrocketry:satellitecontrolcenter, Satellite Terminal
+advancedrocketry:planetanalyser, Astrobody Data Processor
+advancedrocketry:guidancecomputer, Guidance Computer
+advancedrocketry:arcfurnace, Electric Arc Furnace
+advancedrocketry:sawblade, Saw Blade Assembly
+advancedrocketry:lathe, Lathe
+advancedrocketry:rollingmachine, Rolling Machine
+advancedrocketry:platepress, Small Plate Presser
+advancedrocketry:stationbuilder, Space Station Assembler
+advancedrocketry:electrolyser, Electrolyser
+advancedrocketry:chemicalreactor, Chemical Reactor
+advancedrocketry:oxygenscrubber, CO2 Scrubber
+advancedrocketry:oxygenvent, Oxygen Vent
+advancedrocketry:oxygencharger, Gas Charge Pad
+advancedrocketry:airlock_door, tile.smallAirlockDoor.name
+advancedrocketry:landingpad, Docking Pad
+advancedrocketry:warpcore, Warp Core
+advancedrocketry:warpmonitor, Warp Controller
+advancedrocketry:oxygendetection, Atmosphere Detector
+advancedrocketry:unlittorch, Extinguished Torch
+advancedrocketry:geode, Geode Block
+advancedrocketry:oxygenfluid, Oxygen
+advancedrocketry:hydrogenfluid, Hydrogen
+advancedrocketry:rocketfuel, Rocket Fuel
+advancedrocketry:nitrogenfluid, Nitrogen
+advancedrocketry:enrichedlavafluid, Enriched Lava Block
+advancedrocketry:vitrifiedsand, Vitrified Sand
+advancedrocketry:charcoallog, Charcoal Log
+advancedrocketry:electricmushroom, Electric Mushroom
+advancedrocketry:crystal:0, Violet Crystal Block
+advancedrocketry:crystal:1, Blue Crystal Block
+advancedrocketry:crystal:2, Green Crystal Block
+advancedrocketry:crystal:3, Red Crystal Block
+advancedrocketry:crystal:4, Yellow Crystal Block
+advancedrocketry:crystal:5, Orange Crystal Block
+advancedrocketry:orientationcontroller, Orientation Controller
+advancedrocketry:gravitycontroller, Station Gravity Controller
+advancedrocketry:drill, Drill
+advancedrocketry:microwavereciever, Microwave Receiver
+advancedrocketry:lightsource, tile.lightSource.name
+advancedrocketry:solarpanel, Solar Panel
+advancedrocketry:suitworkstation, Suit Workstation
+advancedrocketry:biomescanner, Biome Scanner
+advancedrocketry:terraformer, Atmosphere Terraformer
+advancedrocketry:deployablerocketbuilder, Unmanned Vehicle Assembler
+advancedrocketry:liquidtank, Pressurized Tank
+advancedrocketry:intake, Gas Intake
+advancedrocketry:circlelight, Station Light
+advancedrocketry:solargenerator, Solar Generator
+advancedrocketry:stationmarker, Station Docking Port
+advancedrocketry:altitudecontroller, Altitude Controller
+advancedrocketry:railgun, Railgun
+advancedrocketry:astrobed, tile.astroBed.name
+advancedrocketry:planetholoselector, Holographic Planet Selector
+advancedrocketry:blocklens, Lens
+advancedrocketry:forcefield, Force Field
+advancedrocketry:forcefieldprojector, Force Field Projector
+advancedrocketry:pipesealer, Pipe Seal
+advancedrocketry:spaceelevatorcontroller, Space Elevator
+advancedrocketry:beacon, Beacon
+advancedrocketry:planks, Lightwood planks
+advancedrocketry:thermitetorch, Thermite Torch
+advancedrocketry:wirelesstransciever, Wireless Transciever
+advancedrocketry:blockpump, Fluid Extractor
+advancedrocketry:centrifuge, Centrifuge
+advancedrocketry:basalt, Basalt
+advancedrocketry:landingfloat, Landing Float
+advancedrocketry:gravitymachine, Area Gravity Controller
+advancedrocketry:spacelaser, Orbital Laser Drill
+advancedrocketry:productdust:0, Titanium Aluminide Dust
+advancedrocketry:productdust:1, Titanium Iridium Alloy Dust
+advancedrocketry:productingot:0, Titanium Aluminide Ingot
+advancedrocketry:productingot:1, Titanium Iridium Alloy Ingot
+advancedrocketry:productnugget:0, Titanium Aluminide Nugget
+advancedrocketry:productnugget:1, Titanium Iridium Alloy Nugget
+advancedrocketry:productplate:0, Titanium Aluminide Plate
+advancedrocketry:productplate:1, Titanium Iridium Alloy Plate
+advancedrocketry:productrod:0, Titanium Aluminide Rod
+advancedrocketry:productrod:1, Titanium Iridium Alloy Rod
+advancedrocketry:productsheet:0, Titanium Aluminide Sheet
+advancedrocketry:productsheet:1, Titanium Iridium Alloy Sheet
+advancedrocketry:productgear:0, Titanium Aluminide Gear
+advancedrocketry:productgear:1, Titanium Iridium Alloy Gear
+advancedrocketry:metal0:0, Titanium Aluminide Block
+advancedrocketry:metal0:1, Titanium Iridium Alloy Block
 chisel:blockaluminum:0, Block of Aluminum
 chisel:blockaluminum:1, Block of Aluminum
 chisel:blockaluminum:2, Block of Aluminum
@@ -4763,6 +4964,70 @@ chisel:wool_orange:0, Orange Wool
 chisel:wool_orange:1, Orange Wool
 chisel:wool_white:0, Wool
 chisel:wool_white:1, Wool
+libvulpes:linker, Linker
+libvulpes:battery:0, Small Battery
+libvulpes:battery:1, 2x Small Battery
+libvulpes:holoprojector, Holo-Projector
+advancedrocketry:iquartzcrucible, Quartz Crucible
+advancedrocketry:orescanner, Ore Scanner
+advancedrocketry:satellitepowersource:0, Basic Solar Panel
+advancedrocketry:satellitepowersource:1, Large Solar Panel
+advancedrocketry:satelliteprimaryfunction:0, Optical Sensor
+advancedrocketry:satelliteprimaryfunction:1, Composition Sensor
+advancedrocketry:satelliteprimaryfunction:2, Mass Detector
+advancedrocketry:satelliteprimaryfunction:3, Microwave Transmitter
+advancedrocketry:satelliteprimaryfunction:4, Ore Mapper
+advancedrocketry:satelliteprimaryfunction:5, Biome Changer
+advancedrocketry:itemcircuitplate:0, Basic Circuit Plate
+advancedrocketry:itemcircuitplate:1, Advanced Circuit Plate
+advancedrocketry:ic:0, Basic Circuit
+advancedrocketry:ic:1, Tracking Circuit
+advancedrocketry:ic:2, Advanced Circuit
+advancedrocketry:ic:3, Control Circuit Board
+advancedrocketry:ic:4, Item IO Circuit Board
+advancedrocketry:ic:5, Liquid IO Circuit Board
+advancedrocketry:wafer:0, Silicon Wafer
+advancedrocketry:dataunit:0, Data Storage Unit
+advancedrocketry:satellite, Satellite
+advancedrocketry:satelliteidchip, Satellite Id Chip
+advancedrocketry:planetidchip, Planet Id Chip
+advancedrocketry:misc:0, User Interface
+advancedrocketry:misc:1, Carbon Brick
+advancedrocketry:sawbladeiron:0, Iron Saw Blade
+advancedrocketry:spacestationchip:0, Space Station Id Chip
+advancedrocketry:spacestation:0, Space Station Container
+advancedrocketry:spacehelmet, Space Helmet
+advancedrocketry:spaceboots, Space Boots
+advancedrocketry:spacechestplate, Space Suit Chest-Piece
+advancedrocketry:spaceleggings, Space Suit Legging
+advancedrocketry:bucketrocketfuel, Tank of Rocket Fuel
+advancedrocketry:bucketnitrogen, Tank of Nitrogen
+advancedrocketry:buckethydrogen, Tank of Hydrogen
+advancedrocketry:bucketoxygen, Tank of Oxygen
+advancedrocketry:bucketenrichedlava, Tank of Enriched Lava
+advancedrocketry:smallairlockdoor, Small Airlock Door
+advancedrocketry:carbonscrubbercartridge, Carbon Collection Cartridge
+advancedrocketry:sealdetector, Seal Detector
+advancedrocketry:jackhammer, Jack Hammer
+advancedrocketry:asteroidchip, Asteroid Chip
+advancedrocketry:elevatorchip, Space Elevator Chip
+advancedrocketry:lens:0, Basic Lens
+advancedrocketry:jetpack, Jet Pack
+advancedrocketry:pressuretank:0, Low Pressure Tank
+advancedrocketry:pressuretank:1, Pressure Tank
+advancedrocketry:pressuretank:2, High Pressure Tank
+advancedrocketry:pressuretank:3, Super High Pressure Tank
+advancedrocketry:itemupgrade:0, Hover Upgrade
+advancedrocketry:itemupgrade:1, Flight Speed Control Upgrade
+advancedrocketry:itemupgrade:2, Bionic Leg Upgrade
+advancedrocketry:itemupgrade:3, Padded Landing Boots
+advancedrocketry:itemupgrade:4, Anti-Fog Visor
+advancedrocketry:atmanalyser, Atmosphere Analyzer
+advancedrocketry:basiclasergun, Basic Laser Gun
+advancedrocketry:beaconfinder, Beacon Finder
+advancedrocketry:thermite, Thermite
+advancedrocketry:hovercraft, HoverCraft
+advancedrocketry:biomechanger, Biome Changer Remote
 forge:bucketfilled, %s Bucket
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
@@ -5228,6 +5493,60 @@ appliedenergistics2:facade:0, Cable Facade - Rubber Wood
 appliedenergistics2:facade:0, Cable Facade - Rubber Wood Planks
 appliedenergistics2:facade:0, Cable Facade - Rubber Leaves
 appliedenergistics2:facade:0, Cable Facade - Nuke
+appliedenergistics2:facade:0, Cable Facade - Machine Structure
+appliedenergistics2:facade:0, Cable Facade - Motor
+appliedenergistics2:facade:0, Cable Facade - Advanced Motor
+appliedenergistics2:facade:0, Cable Facade - Enhanced Motor
+appliedenergistics2:facade:0, Cable Facade - Elite Motor
+appliedenergistics2:facade:0, Cable Facade - Advanced Machine Structure
+appliedenergistics2:facade:0, Cable Facade - Dilithium Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Ore
+appliedenergistics2:facade:0, Cable Facade - Tin Ore
+appliedenergistics2:facade:0, Cable Facade - Rutile Ore
+appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
+appliedenergistics2:facade:0, Cable Facade - Iridium Ore
+appliedenergistics2:facade:0, Cable Facade - Copper Block
+appliedenergistics2:facade:0, Cable Facade - Tin Block
+appliedenergistics2:facade:0, Cable Facade - Steel Block
+appliedenergistics2:facade:0, Cable Facade - Titanium Block
+appliedenergistics2:facade:0, Cable Facade - Aluminum Block
+appliedenergistics2:facade:0, Cable Facade - Iridium Block
+appliedenergistics2:facade:0, Cable Facade - Gold Coil
+appliedenergistics2:facade:0, Cable Facade - Copper Coil
+appliedenergistics2:facade:0, Cable Facade - Titanium Coil
+appliedenergistics2:facade:0, Cable Facade - Aluminum Coil
+appliedenergistics2:facade:0, Cable Facade - Iridium Coil
+appliedenergistics2:facade:0, Cable Facade - Launch Pad
+appliedenergistics2:facade:0, Cable Facade - Structure Tower
+appliedenergistics2:facade:0, Cable Facade - Liquid Fueled Engine
+appliedenergistics2:facade:0, Cable Facade - Advanced Rocket Engine
+appliedenergistics2:facade:0, Cable Facade - Liquid Fuel Tank
+appliedenergistics2:facade:0, Cable Facade - Moon Turf
+appliedenergistics2:facade:0, Cable Facade - Dark Moon Turf
+appliedenergistics2:facade:0, Cable Facade - Oxidized Ferric Sand
+appliedenergistics2:facade:0, Cable Facade - HeatProof Brick
+appliedenergistics2:facade:0, Cable Facade - Wood
+appliedenergistics2:facade:0, Cable Facade - Lightwood Leaves
+appliedenergistics2:facade:0, Cable Facade - Concrete
+appliedenergistics2:facade:0, Cable Facade - Saw Blade Assembly
+appliedenergistics2:facade:0, Cable Facade - Geode Block
+appliedenergistics2:facade:0, Cable Facade - Vitrified Sand
+appliedenergistics2:facade:0, Cable Facade - Charcoal Log
+appliedenergistics2:facade:0, Cable Facade - Violet Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Blue Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Green Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Red Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Yellow Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Orange Crystal Block
+appliedenergistics2:facade:0, Cable Facade - Drill
+appliedenergistics2:facade:0, Cable Facade - Solar Panel
+appliedenergistics2:facade:0, Cable Facade - Gas Intake
+appliedenergistics2:facade:0, Cable Facade - Station Light
+appliedenergistics2:facade:0, Cable Facade - Lightwood planks
+appliedenergistics2:facade:0, Cable Facade - Basalt
+appliedenergistics2:facade:0, Cable Facade - Landing Float
+appliedenergistics2:facade:0, Cable Facade - Titanium Aluminide Block
+appliedenergistics2:facade:0, Cable Facade - Titanium Iridium Alloy Block
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Charged Certus Quartz Ore
 appliedenergistics2:facade:0, Cable Facade - Certus Quartz Block
@@ -7360,69 +7679,6 @@ appliedenergistics2:facade:0, Cable Facade - Triangle Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Small Brownstone Bricks
 appliedenergistics2:facade:0, Cable Facade - Brownstone Tiles
 appliedenergistics2:facade:0, Cable Facade - Frame Block
-appliedenergistics2:facade:0, Cable Facade - Tin Decoration Block
-appliedenergistics2:facade:0, Cable Facade - Tin Wall Block
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Block
-appliedenergistics2:facade:0, Cable Facade - Block of Tin
-appliedenergistics2:facade:0, Cable Facade - Aluminum Block
-appliedenergistics2:facade:0, Cable Facade - Solid Meteoric Iron
-appliedenergistics2:facade:0, Cable Facade - Silicon Block
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Cheese Ore
-appliedenergistics2:facade:0, Cable Facade - Moon Dirt
-appliedenergistics2:facade:0, Cable Facade - Moon Rock
-appliedenergistics2:facade:0, Cable Facade - Moon Turf
-appliedenergistics2:facade:0, Cable Facade - Sapphire Ore
-appliedenergistics2:facade:0, Cable Facade - Moon Dungeon Brick
-appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.tin_slab_1.name
-appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.tin_slab_2.name
-appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.moon_slab.name
-appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.moon_bricks_slab.name
-appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.mars_slab.name
-appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.mars_bricks_slab.name
-appliedenergistics2:facade:0, Cable Facade - tile.slab_gc_double.asteroids_slab.name
-appliedenergistics2:facade:0, Cable Facade - Hidden Redstone Wire
-appliedenergistics2:facade:0, Cable Facade - tile.concealed_repeater_pow.name
-appliedenergistics2:facade:0, Cable Facade - Hidden Redstone Repeater
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Desh Ore
-appliedenergistics2:facade:0, Cable Facade - Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Mars Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Mars Fine Regolith
-appliedenergistics2:facade:0, Cable Facade - Mars Regolith
-appliedenergistics2:facade:0, Cable Facade - Mars Dungeon Brick
-appliedenergistics2:facade:0, Cable Facade - Block of Desh
-appliedenergistics2:facade:0, Cable Facade - Mars Stone
-appliedenergistics2:facade:0, Cable Facade - Asteroid Rock
-appliedenergistics2:facade:0, Cable Facade - Asteroid Rock
-appliedenergistics2:facade:0, Cable Facade - Asteroid Rock
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
-appliedenergistics2:facade:0, Cable Facade - Ilmenite Ore
-appliedenergistics2:facade:0, Cable Facade - Iron Ore
-appliedenergistics2:facade:0, Cable Facade - Dark Decoration Block
-appliedenergistics2:facade:0, Cable Facade - Titanium Block
-appliedenergistics2:facade:0, Cable Facade - Dense Ice
-appliedenergistics2:facade:0, Cable Facade - Venus Soft Rock
-appliedenergistics2:facade:0, Cable Facade - Venus Hard Rock
-appliedenergistics2:facade:0, Cable Facade - Venus Volcanic Rock
-appliedenergistics2:facade:0, Cable Facade - Pumice
-appliedenergistics2:facade:0, Cable Facade - Venus Dungeon Brick I
-appliedenergistics2:facade:0, Cable Facade - Venus Dungeon Brick II
-appliedenergistics2:facade:0, Cable Facade - Aluminum Ore
-appliedenergistics2:facade:0, Cable Facade - Copper Ore
-appliedenergistics2:facade:0, Cable Facade - Galena Ore
-appliedenergistics2:facade:0, Cable Facade - Quartz Ore
-appliedenergistics2:facade:0, Cable Facade - Silicon Ore
-appliedenergistics2:facade:0, Cable Facade - Tin Ore
-appliedenergistics2:facade:0, Cable Facade - Lead Block
-appliedenergistics2:facade:0, Cable Facade - Solar Ore
-appliedenergistics2:facade:0, Cable Facade - Scorched Venus Rock
 appliedenergistics2:facade:0, Cable Facade - Physical Hazard
 appliedenergistics2:facade:0, Cable Facade - Housekeeping and Aisle Hazard
 appliedenergistics2:facade:0, Cable Facade - Traffic and Caution Hazard
@@ -7552,9 +7808,6 @@ appliedenergistics2:facade:0, Cable Facade - Birch Trim
 appliedenergistics2:facade:0, Cable Facade - Jungle Trim
 appliedenergistics2:facade:0, Cable Facade - Acacia Trim
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Trim
-appliedenergistics2:facade:0, Cable Facade - Compacted Valkyrium
-appliedenergistics2:facade:0, Cable Facade - tile.shiphelmwheel.name
-appliedenergistics2:facade:0, Cable Facade - Valkyrium Ore
 appliedenergistics2:facade:0, Cable Facade - White Slime Block
 appliedenergistics2:facade:0, Cable Facade - Orange Slime Block
 appliedenergistics2:facade:0, Cable Facade - Magenta Slime Block
@@ -8962,41 +9215,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
 tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
 tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Arrow Head Pattern
 tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -10142,7 +10395,9 @@ tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:1, Stencil Table
+tconstruct:tooltables:1, Stencil Table
 tconstruct:tooltables:4, Pattern Chest
+tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
 tconstruct:tooltables:2, Part Builder
@@ -10263,78 +10518,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
 tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Chestplate Core Cast
 tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Arrow Head Cast
 tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Sword Blade Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
 tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
 tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
 tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -10678,383 +10933,6 @@ funkylocomotion:frame_0:0, Frame Block
 funkylocomotion:wrench:0, Wrench
 funkylocomotion:wrench:1, iWrench
 funkylocomotion:wrench:2, Wrench Hammer
-galacticraftcore:crude_oil_still, Crude Oil
-galacticraftcore:bucket_oil, Oil Bucket
-galacticraftcore:fuel, Fuel
-galacticraftcore:bucket_fuel, Fuel Bucket
-galacticraftcore:landing_pad:0, Rocket Launch Pad
-galacticraftcore:landing_pad:1, Buggy Fueling Pad
-galacticraftcore:landing_pad_full, Rocket Launch Pad
-galacticraftcore:unlit_torch, Torch
-galacticraftcore:unlit_torch_lit, Torch
-galacticraftcore:distributor, Oxygen Bubble Distributor
-galacticraftcore:collector, Oxygen Collector
-galacticraftcore:oxygen_compressor:0, Oxygen Compressor
-galacticraftcore:oxygen_compressor:4, Oxygen Decompressor
-galacticraftcore:sealer, Oxygen Sealer
-galacticraftcore:oxygen_detector, Oxygen Detector
-galacticraftcore:aluminum_wire:0, Aluminum Wire
-galacticraftcore:aluminum_wire:1, Heavy Aluminum Wire
-galacticraftcore:aluminum_wire:2, Switchable Aluminum Wire
-galacticraftcore:aluminum_wire:3, Switchable Heavy Aluminum Wire
-galacticraftcore:fluid_pipe, Fluid Pipe
-galacticraftcore:fluid_pipe_pull, Fluid Pipe
-galacticraftcore:refinery, Refinery
-galacticraftcore:fuel_loader, Fuel Loader
-galacticraftcore:cargo:0, Cargo Loader
-galacticraftcore:cargo:4, Cargo Unloader
-galacticraftcore:rocket_workbench, NASA Workbench
-galacticraftcore:basic_block_core:3, Tin Decoration Block
-galacticraftcore:basic_block_core:4, Tin Wall Block
-galacticraftcore:basic_block_core:5, Copper Ore
-galacticraftcore:basic_block_core:6, Tin Ore
-galacticraftcore:basic_block_core:7, Aluminum Ore
-galacticraftcore:basic_block_core:8, Silicon Ore
-galacticraftcore:basic_block_core:9, Copper Block
-galacticraftcore:basic_block_core:10, Block of Tin
-galacticraftcore:basic_block_core:11, Aluminum Block
-galacticraftcore:basic_block_core:12, Solid Meteoric Iron
-galacticraftcore:basic_block_core:13, Silicon Block
-galacticraftcore:air_lock_frame:0, Air Lock Frame
-galacticraftcore:air_lock_frame:1, Air Lock Controller
-galacticraftcore:air_lock_seal, Air Lock Seal
-galacticraftcore:space_glass_clear:0, Vacuum Glass (Clear)
-galacticraftcore:space_glass_clear:1, Vacuum Glass (Clear)
-galacticraftcore:space_glass_vanilla:0, Vacuum Glass
-galacticraftcore:space_glass_vanilla:1, Vacuum Glass
-galacticraftcore:space_glass_strong:0, Vacuum Glass (Strong)
-galacticraftcore:space_glass_strong:1, Vacuum Glass (Strong)
-galacticraftcore:magnetic_table, Magnetic Crafting Table
-galacticraftcore:enclosed:14, Sealable Aluminum Wire
-galacticraftcore:enclosed:15, Sealable Heavy Aluminum Wire
-galacticraftcore:enclosed:1, Sealable Fluid Pipe
-galacticraftcore:space_station_base, Space Station Arrival Block
-galacticraftcore:parachest, Parachest
-galacticraftcore:solar:0, Basic Solar Panel
-galacticraftcore:solar:4, Advanced Solar Panel
-galacticraftcore:dishbase, Communications Dish
-galacticraftcore:machine:0, Coal Generator
-galacticraftcore:machine:12, Compressor
-galacticraftcore:machine2:0, Electric Compressor
-galacticraftcore:machine2:4, Circuit Fabricator
-galacticraftcore:machine2:8, Oxygen Storage Module
-galacticraftcore:machine2:12, Deconstructor
-galacticraftcore:machine3:0, Chromatic Applicator
-galacticraftcore:machine_tiered:0, Energy Storage Module
-galacticraftcore:machine_tiered:4, Electric Furnace
-galacticraftcore:machine_tiered:8, Energy Storage Cluster
-galacticraftcore:machine_tiered:12, Electric Arc Furnace
-galacticraftcore:panel_lighting:0, Lighting Panel (Square)
-galacticraftcore:panel_lighting:1, Lighting Panel (Spotlight)
-galacticraftcore:panel_lighting:2, Lighting Panel (Linear)
-galacticraftcore:panel_lighting:3, Lighting Panel (Dark)
-galacticraftcore:panel_lighting:4, Lighting Panel (Dark)
-galacticraftcore:glowstone_torch, Glowstone Torch
-galacticraftcore:fallen_meteor, Fallen Meteor
-galacticraftcore:basic_block_moon:0, Copper Ore
-galacticraftcore:basic_block_moon:1, Tin Ore
-galacticraftcore:basic_block_moon:2, Cheese Ore
-galacticraftcore:basic_block_moon:3, Moon Dirt
-galacticraftcore:basic_block_moon:4, Moon Rock
-galacticraftcore:basic_block_moon:5, Moon Turf
-galacticraftcore:basic_block_moon:6, Sapphire Ore
-galacticraftcore:basic_block_moon:14, Moon Dungeon Brick
-galacticraftcore:cheese, Block of Cheese
-galacticraftcore:spin_thruster, Spin Thruster
-galacticraftcore:view_screen, Display Screen
-galacticraftcore:telemetry, Telemetry Unit
-galacticraftcore:arclamp, Arc Lamp
-galacticraftcore:treasure_chest, Treasure Chest
-galacticraftcore:fluid_tank, Fluid Tank
-galacticraftcore:boss_spawner, tile.boss_spawner.name
-galacticraftcore:tin_stairs_1, Tin Decoration Stairs
-galacticraftcore:tin_stairs_2, Tin Decoration Stairs
-galacticraftcore:moon_stairs_stone, Moon Rock Stairs
-galacticraftcore:moon_stairs_brick, Moon Dungeon Brick Stairs
-galacticraftcore:wall_gc:0, Tin Decoration Wall
-galacticraftcore:wall_gc:1, Tin Decoration Wall
-galacticraftcore:wall_gc:2, Moon Rock Wall
-galacticraftcore:wall_gc:3, Moon Dungeon Brick Wall
-galacticraftcore:wall_gc:4, Mars Cobblestone Wall
-galacticraftcore:wall_gc:5, Mars Dungeon Brick Wall
-galacticraftcore:slab_gc_half:0, Tin Decoration Slab
-galacticraftcore:slab_gc_half:1, Tin Decoration Slab
-galacticraftcore:slab_gc_half:2, Moon Rock Slab
-galacticraftcore:slab_gc_half:3, Moon Dungeon Brick Slab
-galacticraftcore:slab_gc_half:4, Mars Cobblestone Slab
-galacticraftcore:slab_gc_half:5, Mars Dungeon Brick Slab
-galacticraftcore:slab_gc_half:6, Dark Decoration Slab
-galacticraftcore:slab_gc_double:0, tile.slab_gc_double.tin_slab_1.name
-galacticraftcore:slab_gc_double:1, tile.slab_gc_double.tin_slab_2.name
-galacticraftcore:slab_gc_double:2, tile.slab_gc_double.moon_slab.name
-galacticraftcore:slab_gc_double:3, tile.slab_gc_double.moon_bricks_slab.name
-galacticraftcore:slab_gc_double:4, tile.slab_gc_double.mars_slab.name
-galacticraftcore:slab_gc_double:5, tile.slab_gc_double.mars_bricks_slab.name
-galacticraftcore:slab_gc_double:6, tile.slab_gc_double.asteroids_slab.name
-galacticraftcore:concealed_redstone, Hidden Redstone Wire
-galacticraftcore:concealed_repeater_pow, tile.concealed_repeater_pow.name
-galacticraftcore:concealed_repeater, Hidden Redstone Repeater
-galacticraftcore:concealed_detector, Player Detector
-galacticraftcore:platform, Hydraulic Platform
-galacticraftcore:emergency_box:0, Emergency Post
-galacticraftcore:emergency_box:1, Emergency Post (with Kit)
-galacticraftcore:grating, Grating
-galacticraftcore:rocket_t1:0, Tier 1 Rocket
-galacticraftcore:rocket_t1:1, Tier 1 Rocket
-galacticraftcore:rocket_t1:2, Tier 1 Rocket
-galacticraftcore:rocket_t1:3, Tier 1 Rocket
-galacticraftcore:rocket_t1:4, Tier 1 Rocket
-galacticraftcore:oxygen_mask, Oxygen Mask
-galacticraftcore:oxygen_gear, Oxygen Gear
-galacticraftcore:oxygen_tank_light_full, Light Oxygen Tank
-galacticraftcore:oxygen_tank_med_full, Medium Oxygen Tank
-galacticraftcore:oxygen_tank_heavy_full, Heavy Oxygen Tank
-galacticraftcore:infinite_oxygen, Infinite Oxygen Supply
-galacticraftcore:sensor_lens, Sensor Lens
-galacticraftcore:sensor_glasses, Sensor Glasses
-galacticraftcore:standard_wrench, Standard Wrench
-galacticraftcore:steel_pickaxe, Heavy Duty Pickaxe
-galacticraftcore:steel_axe, Heavy Duty Axe
-galacticraftcore:steel_hoe, Heavy Duty Hoe
-galacticraftcore:steel_shovel, Heavy Duty Shovel
-galacticraftcore:steel_sword, Heavy Duty Sword
-galacticraftcore:steel_helmet, Heavy Duty Helmet
-galacticraftcore:steel_chestplate, Heavy Duty Chestplate
-galacticraftcore:steel_leggings, Heavy Duty Leggings
-galacticraftcore:steel_boots, Heavy Duty Boots
-galacticraftcore:canister:0, Tin Canister
-galacticraftcore:canister:1, Copper Canister
-galacticraftcore:air_vent, Oxygen Vent
-galacticraftcore:air_fan, Oxygen Fan
-galacticraftcore:oxygen_concentrator, Oxygen Concentrator
-galacticraftcore:engine:0, Tier 1 Rocket Engine
-galacticraftcore:engine:1, Tier 1 Booster
-galacticraftcore:heavy_plating, Heavy-Duty Plate
-galacticraftcore:nose_cone, Nose Cone
-galacticraftcore:rocket_fins, Rocket Fins
-galacticraftcore:steel_pole, Steel Pole
-galacticraftcore:canvas, Canvas
-galacticraftcore:oil_canister_partial:1001, Empty Canister
-galacticraftcore:oil_canister_partial:1, Filled Oil Canister
-galacticraftcore:fuel_canister_partial:1, Filled Fuel Canister
-galacticraftcore:schematic:0, NASA Workbench Schematic
-galacticraftcore:schematic:1, NASA Workbench Schematic
-galacticraftcore:key:0, Tier 1 Dungeon Key
-galacticraftcore:buggymat:0, Buggy Wheel
-galacticraftcore:buggymat:1, Buggy Seat
-galacticraftcore:buggymat:2, Buggy Storage Box
-galacticraftcore:buggy, Buggy
-galacticraftcore:basic_item:0, Single Solar Module
-galacticraftcore:basic_item:1, Full Solar Panel
-galacticraftcore:basic_item:2, Raw Silicon
-galacticraftcore:basic_item:3, Copper Ingot
-galacticraftcore:basic_item:4, Tin Ingot
-galacticraftcore:basic_item:5, Aluminum Ingot
-galacticraftcore:basic_item:6, Compressed Copper
-galacticraftcore:basic_item:7, Compressed Tin
-galacticraftcore:basic_item:8, Compressed Aluminum
-galacticraftcore:basic_item:9, Compressed Steel
-galacticraftcore:basic_item:10, Compressed Bronze
-galacticraftcore:basic_item:11, Compressed Iron
-galacticraftcore:basic_item:12, Blue Solar Wafer
-galacticraftcore:basic_item:13, Basic Wafer
-galacticraftcore:basic_item:14, Advanced Wafer
-galacticraftcore:basic_item:19, Frequency Module
-galacticraftcore:basic_item:20, Ambient Thermal Controller
-galacticraftcore:food:0, Can of Food
-galacticraftcore:food:1, Can of Food
-galacticraftcore:food:2, Can of Food
-galacticraftcore:food:3, Can of Food
-galacticraftcore:food:9, Canned Beef
-galacticraftcore:food:4, Cheese Slice
-galacticraftcore:food:5, Burger Bun
-galacticraftcore:food:6, Ground Beef (Raw)
-galacticraftcore:food:7, Beef Patty (Cooked)
-galacticraftcore:food:8, Cheeseburger
-galacticraftcore:battery, Battery
-galacticraftcore:infinite_battery, Infinite Battery
-galacticraftcore:meteor_chunk:0, Throwable Meteor Chunk
-galacticraftcore:meteor_chunk:1, Throwable Meteor Chunk
-galacticraftcore:cheese_curd, Cheese Curd
-galacticraftcore:meteoric_iron_raw, Raw Meteoric Iron
-galacticraftcore:item_basic_moon:0, Meteoric Iron Ingot
-galacticraftcore:item_basic_moon:1, Compressed Meteoric Iron
-galacticraftcore:item_basic_moon:2, Lunar Sapphire
-galacticraftcore:flag, Flag
-galacticraftcore:parachute:0, Parachute
-galacticraftcore:parachute:1, Black Parachute
-galacticraftcore:parachute:2, Light Blue Parachute
-galacticraftcore:parachute:3, Lime Parachute
-galacticraftcore:parachute:4, Brown Parachute
-galacticraftcore:parachute:5, Blue Parachute
-galacticraftcore:parachute:6, Gray Parachute
-galacticraftcore:parachute:7, Green Parachute
-galacticraftcore:parachute:8, Light Gray Parachute
-galacticraftcore:parachute:9, Magenta Parachute
-galacticraftcore:parachute:10, Orange Parachute
-galacticraftcore:parachute:11, Pink Parachute
-galacticraftcore:parachute:12, Purple Parachute
-galacticraftcore:parachute:13, Red Parachute
-galacticraftcore:parachute:14, Cyan Parachute
-galacticraftcore:parachute:15, Yellow Parachute
-galacticraftcore:prelaunch_checklist, Pre-Launch Checklist
-galacticraftcore:dungeonfinder, Dungeon Locator
-galacticraftcore:emergency_kit, Space Emergency Kit
-galacticraftcore:ic2compat, item.ic2compat.name
-galacticraftplanets:sludge, Bacterial Sludge
-galacticraftplanets:bucket_sludge, Bacterial Sludge Bucket
-galacticraftplanets:treasure_t2, Tier 2 Treasure Chest
-galacticraftplanets:mars:0, Copper Ore
-galacticraftplanets:mars:1, Tin Ore
-galacticraftplanets:mars:2, Desh Ore
-galacticraftplanets:mars:3, Iron Ore
-galacticraftplanets:mars:4, Mars Cobblestone
-galacticraftplanets:mars:5, Mars Fine Regolith
-galacticraftplanets:mars:6, Mars Regolith
-galacticraftplanets:mars:7, Mars Dungeon Brick
-galacticraftplanets:mars:8, Block of Desh
-galacticraftplanets:mars:9, Mars Stone
-galacticraftplanets:cavern_vines, Cavernous Vines
-galacticraftplanets:slimeling_egg:0, Red Slimeling Egg
-galacticraftplanets:slimeling_egg:1, Blue Slimeling Egg
-galacticraftplanets:slimeling_egg:2, Yellow Slimeling Egg
-galacticraftplanets:creeper_egg, Creeper Egg
-galacticraftplanets:mars_machine:0, Terraformer
-galacticraftplanets:mars_machine:4, Cryogenic Chamber
-galacticraftplanets:mars_machine:8, Launch Controller
-galacticraftplanets:mars_machine_t2:0, Gas Liquefier
-galacticraftplanets:mars_machine_t2:4, Methane Synthesizer
-galacticraftplanets:mars_machine_t2:8, Water Electrolyzer
-galacticraftplanets:boss_spawner_mars, tile.boss_spawner_mars.name
-galacticraftplanets:mars_stairs_cobblestone, Mars Cobblestone Stairs
-galacticraftplanets:mars_stairs_brick, Mars Dungeon Brick Stairs
-galacticraftplanets:carbon_fragments, Fragmented Carbon
-galacticraftplanets:item_basic_mars:0, Unrefined Desh
-galacticraftplanets:item_basic_mars:1, Desh Stick
-galacticraftplanets:item_basic_mars:2, Desh Ingot
-galacticraftplanets:item_basic_mars:3, Heavy-Duty Plate
-galacticraftplanets:item_basic_mars:4, Slimeling Inventory Bag
-galacticraftplanets:item_basic_mars:5, Compressed Desh
-galacticraftplanets:item_basic_mars:6, Fluid Manipulator
-galacticraftplanets:desh_pick, Desh Pickaxe
-galacticraftplanets:desh_pick_slime, Sticky Desh Pickaxe
-galacticraftplanets:desh_axe, Desh Axe
-galacticraftplanets:desh_hoe, Desh Hoe
-galacticraftplanets:desh_spade, Desh Shovel
-galacticraftplanets:desh_sword, Desh Sword
-galacticraftplanets:desh_helmet, Desh Helmet
-galacticraftplanets:desh_chestplate, Desh Chestplate
-galacticraftplanets:desh_leggings, Desh Leggings
-galacticraftplanets:desh_boots, Desh Boots
-galacticraftplanets:rocket_t2:0, Tier 2 Rocket
-galacticraftplanets:rocket_t2:1, Tier 2 Rocket
-galacticraftplanets:rocket_t2:2, Tier 2 Rocket
-galacticraftplanets:rocket_t2:3, Tier 2 Rocket
-galacticraftplanets:rocket_t2:4, Tier 2 Rocket
-galacticraftplanets:rocket_t2:11, Cargo Rocket
-galacticraftplanets:rocket_t2:12, Cargo Rocket
-galacticraftplanets:rocket_t2:13, Cargo Rocket
-galacticraftplanets:rocket_t2:14, Cargo Rocket
-galacticraftplanets:key:0, Tier 2 Dungeon Key
-galacticraftplanets:schematic:0, NASA Workbench Schematic
-galacticraftplanets:schematic:1, NASA Workbench Schematic
-galacticraftplanets:schematic:2, NASA Workbench Schematic
-galacticraftplanets:asteroids_block:0, Asteroid Rock
-galacticraftplanets:asteroids_block:1, Asteroid Rock
-galacticraftplanets:asteroids_block:2, Asteroid Rock
-galacticraftplanets:asteroids_block:3, Aluminum Ore
-galacticraftplanets:asteroids_block:4, Ilmenite Ore
-galacticraftplanets:asteroids_block:5, Iron Ore
-galacticraftplanets:asteroids_block:6, Dark Decoration Block
-galacticraftplanets:asteroids_block:7, Titanium Block
-galacticraftplanets:walkway:0, Walkway
-galacticraftplanets:walkway:1, Walkway
-galacticraftplanets:walkway:2, Walkway
-galacticraftplanets:beam_reflector, Energy Beam Reflector
-galacticraftplanets:beam_receiver, Energy Beam Receiver
-galacticraftplanets:telepad_short, Short Range Telepad
-galacticraftplanets:dense_ice, Dense Ice
-galacticraftplanets:miner_base, Astro Miner Base
-galacticraftplanets:grapple, Grapple
-galacticraftplanets:rocket_t3:0, Tier 3 Rocket
-galacticraftplanets:rocket_t3:1, Tier 3 Rocket
-galacticraftplanets:rocket_t3:2, Tier 3 Rocket
-galacticraftplanets:rocket_t3:3, Tier 3 Rocket
-galacticraftplanets:rocket_t3:4, Tier 3 Rocket
-galacticraftplanets:astro_miner, Astro Miner
-galacticraftplanets:thermal_padding:0, Thermal Padding Helm
-galacticraftplanets:thermal_padding:1, Thermal Padding Chestpiece
-galacticraftplanets:thermal_padding:2, Thermal Padding Leggings
-galacticraftplanets:thermal_padding:3, Thermal Padding Boots
-galacticraftplanets:item_basic_asteroids:0, Titanium Ingot
-galacticraftplanets:item_basic_asteroids:1, Heavy Rocket Engine
-galacticraftplanets:item_basic_asteroids:2, Heavy Rocket Fins
-galacticraftplanets:item_basic_asteroids:3, Iron Shard
-galacticraftplanets:item_basic_asteroids:4, Titanium Shard
-galacticraftplanets:item_basic_asteroids:5, Heavy-Duty Plate
-galacticraftplanets:item_basic_asteroids:6, Compressed Titanium
-galacticraftplanets:item_basic_asteroids:7, Thermal Cloth
-galacticraftplanets:item_basic_asteroids:8, Beam Core
-galacticraftplanets:item_basic_asteroids:9, Titanium Dust
-galacticraftplanets:methane_canister_partial:1, Filled Methane Gas Canister
-galacticraftplanets:canister_partial_lox:1, Filled Canister of Liquid Oxygen
-galacticraftplanets:canister_partial_ln2:1, Filled Canister of Liquid Nitrogen
-galacticraftplanets:atmospheric_valve, Atmospheric Valve
-galacticraftplanets:heavy_nose_cone:0, Heavy Nose Cone
-galacticraftplanets:orion_drive, Orion Drive
-galacticraftplanets:titanium_helmet, Titanium Helmet
-galacticraftplanets:titanium_chestplate, Titanium Chestplate
-galacticraftplanets:titanium_leggings, Titanium Leggings
-galacticraftplanets:titanium_boots, Titanium Boots
-galacticraftplanets:titanium_axe, Titanium Axe
-galacticraftplanets:titanium_pickaxe, Titanium Pickaxe
-galacticraftplanets:titanium_shovel, Titanium Shovel
-galacticraftplanets:titanium_hoe, Titanium Hoe
-galacticraftplanets:titanium_sword, Titanium Sword
-galacticraftplanets:strange_seed:0, Strange Seed
-galacticraftplanets:strange_seed:1, Strange Seed
-galacticraftplanets:sulphuric_acid, Sulfuric Acid
-galacticraftplanets:bucket_sulphuric_acid, Sulfuric Acid Bucket
-galacticraftplanets:venus:0, Venus Soft Rock
-galacticraftplanets:venus:1, Venus Hard Rock
-galacticraftplanets:venus:2, Venus Volcanic Rock
-galacticraftplanets:venus:3, Pumice
-galacticraftplanets:venus:4, Venus Dungeon Brick I
-galacticraftplanets:venus:5, Venus Dungeon Brick II
-galacticraftplanets:venus:6, Aluminum Ore
-galacticraftplanets:venus:7, Copper Ore
-galacticraftplanets:venus:8, Galena Ore
-galacticraftplanets:venus:9, Quartz Ore
-galacticraftplanets:venus:10, Silicon Ore
-galacticraftplanets:venus:11, Tin Ore
-galacticraftplanets:venus:12, Lead Block
-galacticraftplanets:venus:13, Solar Ore
-galacticraftplanets:spout, Vapor Spout
-galacticraftplanets:boss_spawner_venus, tile.boss_spawner_venus.name
-galacticraftplanets:treasure_t3, Tier 3 Treasure Chest
-galacticraftplanets:web_torch:0, Web String
-galacticraftplanets:web_torch:1, Web String
-galacticraftplanets:geothermal_generator, Geothermal Generator
-galacticraftplanets:crashed_probe, Crashed Probe
-galacticraftplanets:venus_rock_scorched, Scorched Venus Rock
-galacticraftplanets:solar_array_module, Solar Array Module
-galacticraftplanets:solar_array_controller, Solar Array Controller
-galacticraftplanets:thermal_padding_t2:0, Isothermal Helm
-galacticraftplanets:thermal_padding_t2:1, Isothermal Chestpiece
-galacticraftplanets:thermal_padding_t2:2, Isothermal Leggings
-galacticraftplanets:thermal_padding_t2:3, Isothermal Boots
-galacticraftplanets:basic_item_venus:0, Shield Controller
-galacticraftplanets:basic_item_venus:1, Lead Ingot
-galacticraftplanets:basic_item_venus:2, Radioisotope Core
-galacticraftplanets:basic_item_venus:3, Isothermal Fabric
-galacticraftplanets:basic_item_venus:4, Solar Dust
-galacticraftplanets:basic_item_venus:5, Solar Array Panel
-galacticraftplanets:basic_item_venus:6, Solar Array Wafer
-galacticraftplanets:volcanic_pickaxe, Volcanic Pickaxe
-galacticraftplanets:key_t3:0, Tier 3 Dungeon Key
-galacticraftplanets:atomic_battery, Atomic Battery
-galacticraftcore:unlit_torch_stone, Stone Torch
-galacticraftcore:unlit_torch_stone_lit, Stone Torch
 industrialrenewal:chunk_hematite, Hematite Chunk
 industrialrenewal:ir_manual, Industrial Renewal Manual
 industrialrenewal:ingot_steel, Steel Ingot
@@ -11178,6 +11056,24 @@ industrialrenewal:steam, Steam
 industrialrenewal:eotm, Employee of the Month Award
 industrialrenewal:chunk_loader, Chunk Loader
 industrialrenewal:conveyor_bulk, Bulk Conveyor
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -11298,24 +11194,6 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 mekanism:electricbow, Electric Bow
 mekanism:dust:0, Iron Dust
 mekanism:dust:1, Gold Dust
@@ -11901,27 +11779,6 @@ rftools:ender_monitor, Ender Monitor
 rftools:storage_scanner, Storage Scanner
 rftools:elevator, Elevator
 rftools:booster, Booster
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -11972,40 +11829,27 @@ storagedrawers:customdrawers:2, Framed Drawers 2x2
 storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
-valkyrienwarfare:shipblock, Physics Infuser
-valkyrienwarfare:shipblockcreative, Physics Infuser Creative
-valkyrienwarfare:vw_phys_core, Physics Core
-valkyrienwarfarecontrol:relaywire, Relay Wire
-valkyrienwarfarecontrol:vw_wrench, VW Wrench
-valkyrienwarfarecontrol:basicengine, Basic Engine
-valkyrienwarfarecontrol:advancedengine, Advanced Engine
-valkyrienwarfarecontrol:eliteengine, Elite Engine
-valkyrienwarfarecontrol:ultimateengine, Ultimate Engine
-valkyrienwarfarecontrol:redstoneengine, Redstone Engine
-valkyrienwarfarecontrol:dopedethereum, Compacted Valkyrium
-valkyrienwarfarecontrol:shippilotschair, Captain's Chair
-valkyrienwarfarecontrol:shippassengerchair, Passenger Chair
-valkyrienwarfarecontrol:shiphelm, Ship Helm
-valkyrienwarfarecontrol:shiphelmwheel, tile.shiphelmwheel.name
-valkyrienwarfarecontrol:shiptelegraph, Speed Telegraph
-valkyrienwarfarecontrol:thrustrelay, Network Control Relay
-valkyrienwarfarecontrol:thrustmodulator, Old Control Block
-valkyrienwarfarecontrol:vw_gyroscope_stabilizer, Ship Gyroscope Stabilizer
-valkyrienwarfarecontrol:vw_liftvalve, Lift Valve
-valkyrienwarfarecontrol:vw_networkdisplay, Network Display
-valkyrienwarfarecontrol:vw_liftcontrol, Lift Lever
-valkyrienwarfarecontrol:vw_ethercompressorpanel, Valkyrium Compressor Panel
-valkyrienwarfarecontrol:vw_gyroscope_dampener, Ship Gyroscope Dampener
-valkyrienwarfarecontrol:vw_ethereum_enginepart, Valkyrium Engine Part
-valkyrienwarfarecontrol:vw_gearbox, Gear Box
-valkyrienwarfarecontrol:vw_rudder_axle_part, Rudder Axle
-valkyrienwarfarecontrol:vw_giant_propeller_part, Gigantic Propeller Part
-valkyrienwarfarecontrol:vw_block_rotation_train_axle, Rotation Axle
-valkyrienwarfareworld:ethereumcrystal, Valkyrium Crystal
-valkyrienwarfareworld:ethereumore, Valkyrium Ore
-valkyrienwarfareworld:skydungeon_controller, SkyDungeon Controller
-valkyrienwarfareworld:quartz_fence, Quartz Fence
-valkyrienwarfareoc:gpsblock, Gps Block
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 charset:slime_block_colored:0, White Slime Block
 charset:slime_block_colored:1, Orange Slime Block
 charset:slime_block_colored:2, Magenta Slime Block
