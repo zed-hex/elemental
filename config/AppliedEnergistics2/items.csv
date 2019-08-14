@@ -7808,6 +7808,12 @@ appliedenergistics2:facade:0, Cable Facade - Birch Trim
 appliedenergistics2:facade:0, Cable Facade - Jungle Trim
 appliedenergistics2:facade:0, Cable Facade - Acacia Trim
 appliedenergistics2:facade:0, Cable Facade - Dark Oak Trim
+appliedenergistics2:facade:0, Cable Facade - Castle Block
+appliedenergistics2:facade:0, Cable Facade - Castle Block
+appliedenergistics2:facade:0, Cable Facade - Castle Block
+appliedenergistics2:facade:0, Cable Facade - Castle Block
+appliedenergistics2:facade:0, Cable Facade - Castle Block
+appliedenergistics2:facade:0, Cable Facade - Cursed Earth
 appliedenergistics2:facade:0, Cable Facade - White Slime Block
 appliedenergistics2:facade:0, Cable Facade - Orange Slime Block
 appliedenergistics2:facade:0, Cable Facade - Magenta Slime Block
@@ -9215,41 +9221,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Armor Plates Pattern
 tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Shard Pattern
 tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Axe Head Pattern
 tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -10518,78 +10524,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Armor Plates Cast
 tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Shard Cast
 tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Axe Head Cast
 tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
 tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
 tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -11056,24 +11062,6 @@ industrialrenewal:steam, Steam
 industrialrenewal:eotm, Employee of the Month Award
 industrialrenewal:chunk_loader, Chunk Loader
 industrialrenewal:conveyor_bulk, Bulk Conveyor
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -11194,6 +11182,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 mekanism:electricbow, Electric Bow
 mekanism:dust:0, Iron Dust
 mekanism:dust:1, Gold Dust
@@ -11850,6 +11856,111 @@ storagedrawers:shroud_key, Concealment Key
 storagedrawers:personal_key, Personal Key
 storagedrawers:quantify_key, Quantify Key
 storagedrawers:tape, Packing Tape
+vampirism:vampire_fang, Vampire Fang
+vampirism:human_heart, Human Heart
+vampirism:weak_human_heart, Weak Human Heart
+vampirism:blood_bottle:0, Blood Bottle
+vampirism:blood_bottle:9, Blood Bottle
+vampirism:item_tent, Tent
+vampirism:item_coffin, Coffin
+vampirism:pure_blood:0, Pure Blood
+vampirism:pure_blood:1, Pure Blood
+vampirism:pure_blood:2, Pure Blood
+vampirism:pure_blood:3, Pure Blood
+vampirism:pure_blood:4, Pure Blood
+vampirism:hunter_intel:0, Hunter Intel
+vampirism:hunter_intel:1, Hunter Intel
+vampirism:hunter_intel:2, Hunter Intel
+vampirism:hunter_intel:3, Hunter Intel
+vampirism:hunter_intel:4, Hunter Intel
+vampirism:hunter_intel:5, Hunter Intel
+vampirism:hunter_intel:6, Hunter Intel
+vampirism:hunter_intel:7, Hunter Intel
+vampirism:hunter_intel:8, Hunter Intel
+vampirism:hunter_intel:9, Hunter Intel
+vampirism:item_garlic, Garlic
+vampirism:item_med_chair, Injection Chair
+vampirism:injection:0, Syringe
+vampirism:injection:1, Garlic Injection
+vampirism:injection:2, Sanguinare Injection
+vampirism:injection:0, Syringe
+vampirism:pitchfork, Pitchfork
+vampirism:basic_crossbow, Crossbow
+vampirism:basic_double_crossbow, Double Crossbow
+vampirism:enhanced_crossbow, Enhanced Crossbow
+vampirism:enhanced_double_crossbow, Enhanced Double Crossbow
+vampirism:crossbow_arrow, Crossbow Arrow
+vampirism:stake, Stake
+vampirism:vampire_blood_bottle, Vampire Blood
+vampirism:blood_potion, Blood Potion
+vampirism:basic_tech_crossbow, Semi-Auto Crossbow
+vampirism:enhanced_tech_crossbow, Enhanced Semi-Auto Crossbow
+vampirism:tech_crossbow_ammo_package, Arrow clip
+vampirism:vampire_book, Vampire Book
+vampirism:holy_water_bottle, Holy Water
+vampirism:holy_water_splash_bottle, Splash Bottle of Holy Water
+vampirism:holy_salt, Blessed Salt
+vampirism:pure_salt, Pure Salt
+vampirism:holy_salt_water, Blessed Salt Water
+vampirism:item_alchemical_fire, Alchemical Fire
+vampirism:garlic_beacon_core, Garlic Diffusor Core
+vampirism:garlic_beacon_core_improved, Improved Garlic Diffusor Core
+vampirism:purified_garlic, Purified Garlic
+vampirism:armor_of_swiftness_head, Helmet of Swiftness
+vampirism:armor_of_swiftness_chest, Chestplate of Swiftness
+vampirism:armor_of_swiftness_legs, Leggings of Swiftness
+vampirism:armor_of_swiftness_feet, Boots of Swiftness
+vampirism:hunter_hat0_head, Hunter Hat
+vampirism:hunter_hat1_head, Hunter Hat
+vampirism:hunter_axe, Hunter Axe
+vampirism:hunter_coat_head, Hunter Coat Helmet
+vampirism:hunter_coat_chest, Hunter Coat
+vampirism:hunter_coat_legs, Hunter Coat Leggings
+vampirism:hunter_coat_feet, Hunter Coat Boots
+vampirism:obsidian_armor_head, Obsidian Helmet of Hell
+vampirism:obsidian_armor_chest, Obsidian Chestplate of Hell
+vampirism:obsidian_armor_legs, Obsidian Leggings of Hell
+vampirism:obsidian_armor_feet, Obsidian Boots of Hell
+vampirism:heart_seeker, Heartseeker
+vampirism:heart_striker, Heartstriker
+vampirism:blood_infused_iron_ingot, Blood Infused Iron Ingot
+vampirism:blood_infused_enhanced_iron_ingot, Enhanced Blood Infused Iron Ingot
+vampirism:soul_orb_vampire, Vampire Soul
+vampirism:vampire_cloak:0, Vampire Cloak
+vampirism:garlic_bread, Garlic Bread
+vampirism:castle_block:0, Castle Block
+vampirism:castle_block:1, Castle Block
+vampirism:castle_block:2, Castle Block
+vampirism:castle_block:3, Castle Block
+vampirism:castle_block:4, Castle Block
+vampirism:blood_container, Blood Container
+vampirism:block_blood_fluid, tile.fluid.vampirism.vampirismblood.name
+vampirism:cursed_earth, Cursed Earth
+vampirism:vampirism_flower:0, Vampire Orchid
+vampirism:altar_infusion, Altar of Infusion
+vampirism:altar_pillar, Altar Pillar
+vampirism:altar_tip, Altar Tip
+vampirism:hunter_table, Hunter Research Table
+vampirism:hunter_table2, Strange Hunter Research Table
+vampirism:church_altar, Altar of Cleansing
+vampirism:altar_inspiration, Altar of Inspiration
+vampirism:fire_place, Fire Place
+vampirism:weapon_table, Hunter Weapon Table
+vampirism:blood_potion_table, Blood Potion Table
+vampirism:sunscreen_beacon, Sunscreen Beacon
+vampirism:alchemical_cauldron, Alchemical Cauldron
+vampirism:garlic_beacon, Garlic Diffusor
+vampirism:castle_stairs_dark, Dark Brick Stairs
+vampirism:castle_stairs_dark_stone, Dark Stone Stairs
+vampirism:castle_stairs_purple, Purple Brick Stairs
+vampirism:blood_pedestal, Blood Pedestal
+vampirism:blood_grinder, Blood Grinder
+vampirism:blood_sieve, Blood Sieve
+vampirism:totem_base, Village totem base
+vampirism:totem_top, Village totem top
+vampirism:castle_slab:0, Dark Brick Slab
+vampirism:castle_slab:1, Purple Brick Slab
+vampirism:castle_slab:2, Dark Stone Slab
 charset:slime_block_colored:0, White Slime Block
 charset:slime_block_colored:1, Orange Slime Block
 charset:slime_block_colored:2, Magenta Slime Block
@@ -12244,3 +12355,4 @@ blockcraftery:editable_pressure_plate_items_reinforced, Reinforced Framed Pressu
 blockcraftery:editable_pressure_plate_mobs_reinforced, Reinforced Framed Pressure Plate (Mobs)
 blockcraftery:editable_pressure_plate_player_reinforced, Reinforced Framed Pressure Plate (Players)
 guideapi:bloodmagic-guide, item.guideapi.book.bloodmagic.guide.name
+guideapi:vampirism-guide, item.guideapi.book.vampirism.guide.name
