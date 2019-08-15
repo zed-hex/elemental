@@ -1,0 +1,1 @@
+mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_sword>);

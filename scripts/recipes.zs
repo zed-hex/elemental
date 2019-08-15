@@ -1,6 +1,8 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<avaritia:infinity_sword>.noReturn());
+recipes.remove(<avaritia:infinity_sword>);
 recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_pink"}));
 recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_ice"}));
 recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_slime"}));
