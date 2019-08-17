@@ -1,15 +1,4 @@
 <!-->
-	IMPORTANT NOTICE TO MODPACK MAKERS!!!!
-	
-	XML recipes are being DEPRECATED soon.
-	This means that recipes registered via the XML for MACHINES will no longer work
-	To avoid issues that may arise from this, please either distribute a RESOURCE PACK
-	with relevant JSON recipes OR user Craft tweaker + Advanced rocketry tweaker (3rd party)
-	https://minecraft.curseforge.com/projects/advanced-rocketry-tweaker
-	
-	IMPORTANT NOTICE TO MODPACK MAKERS!!!!
-	
-	
 	<Recipe timeRequired="NUMBER" power="NUMBER">
 		<input>
 			<fluidStack>FLUID NAME SIZE</fluidStack>
@@ -35,7 +24,7 @@
 	<Recipe timeRequired="9000" power ="20">
 		<input>
 			<itemStack>thermalfoundation:material 7 132</itemStack>
-			<itemStack>techreborn:ingot 3 14</itemStack>
+			<itemStack>libvulpes:productingot 3 7</itemStack>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:productingot 3</itemStack>
@@ -48,6 +37,8 @@
 		</input>
 		<output>
 			<itemStack>thermalfoundation:material 1 160</itemStack>
+			<itemStack>nuclearcraft:alloy 1 5</itemStack>
+			<itemStack>libvulpes:productingot 1 6</itemStack>
 		</output>
 	</Recipe>
 	<Recipe timeRequired="12000" power ="1">
@@ -61,7 +52,7 @@
 	<Recipe timeRequired="3000" power ="20">
 		<input>
 			<itemStack>thermalfoundation:material 1 135</itemStack>
-			<itemStack>techreborn:ingot 1 14</itemStack>
+			<itemStack>libvulpes:productingot 1 7</itemStack>
 		</input>
 		<output>
 			<itemStack>advancedrocketry:productingot 2 1</itemStack>
