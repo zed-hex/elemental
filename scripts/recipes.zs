@@ -1,6 +1,10 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<mekanismgenerators:reactor:3>);
+recipes.remove(<mekanismgenerators:reactor:2>);
+recipes.remove(<mekanismgenerators:reactor:1>);
+recipes.remove(<mekanismgenerators:reactor>);
 recipes.remove(<mekanism:machineblock:4>);
 recipes.remove(<industrialrenewal:chunk_loader>);
 recipes.remove(<techreborn:solar_panel:4>);
