@@ -25,4 +25,8 @@ recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_death
 recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_ice"}));
 //Don't touch me!
 //#Add
+recipes.addShaped(<appliedenergistics2:material:13>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <techreborn:part:30>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
+recipes.addShaped(<appliedenergistics2:material:19>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <advancedrocketry:wafer>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
+recipes.addShaped(<appliedenergistics2:material:14>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <techreborn:part>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
+recipes.addShaped(<appliedenergistics2:material:15>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <techreborn:part:1>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
 //File End
