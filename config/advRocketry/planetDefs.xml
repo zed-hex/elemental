@@ -1,7 +1,6 @@
 <galaxy>
     <star name="Sol" temp="100" x="0" y="0" numPlanets="0" numGasGiants="0">
 		<planet name="Earth" DIMID="0" dimMapping="">
-			<isKnown>true</isKnown>
 			<fogColor>1.0,1.0,1.0</fogColor>
 			<skyColor>1.0,1.0,1.0</skyColor>
 			<gravitationalMultiplier>100</gravitationalMultiplier>
@@ -10,7 +9,6 @@
 			<rotationalPeriod>24000</rotationalPeriod>
 			<atmosphereDensity>100</atmosphereDensity>
 			<planet name="Luna" DIMID="100">
-				<isKnown>true</isKnown>
 				<fogColor>1.0,1.0,1.0</fogColor>
 				<skyColor>1.0,1.0,1.0</skyColor>
 				<gravitationalMultiplier>16</gravitationalMultiplier>
@@ -115,9 +113,9 @@
 			</planet>
 		</planet>
 		<planet name="Ganymede" DIMID="113" customIcon="lava">
-		<artifact>minecraft:charcoal 1</artifact>
-		    <biomeIds>advancedrocketry:Stormland</biomeIds>
-            <skyColor>0,0,0</skyColor>
+			<artifact>minecraft:charcoal 1</artifact>
+		    	<biomeIds>advancedrocketry:Stormland</biomeIds>
+            		<skyColor>0,0,0</skyColor>
 			<oceanBlock>minecraft:fluid.lava</oceanBlock>
 			<atmosphereDensity>120</atmosphereDensity>
 			<gravitationalMultiplier>38</gravitationalMultiplier>

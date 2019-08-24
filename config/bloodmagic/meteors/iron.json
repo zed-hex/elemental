@@ -40,7 +40,7 @@
       "oreName": "oreRedstone"
     }
   ],
-  "explosionStrength": 15.0,
+  "explosionStrength": 50.0,
   "radius": 5,
   "maxWeight": 1080,
   "version": 3,
