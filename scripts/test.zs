@@ -1,1 +1,12 @@
 mods.avaritia.ExtremeCrafting.remove(<avaritia:infinity_sword>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:iron_door>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:light_weighted_pressure_plate>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:heavy_weighted_pressure_plate>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:iron_bars>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:tripwire_hook>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:bucket>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:minecart>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:rail>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:golden_rail>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:detector_rail>);
+mods.techreborn.rollingMachine.removeRecipe(<minecraft:activator_rail>);
