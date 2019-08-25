@@ -44,6 +44,7 @@ recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_death
 recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_ice"}));
 //Don't touch me!
 //#Add
+recipes.addShaped(<appliedenergistics2:controller>, [[<ore:blockSteel>, <appliedenergistics2:material:12>, <ore:blockSteel>],[<appliedenergistics2:material:12>, <appliedenergistics2:material:24>, <appliedenergistics2:material:12>], [<ore:blockSteel>, <appliedenergistics2:material:12>, <ore:blockSteel>]]);
 recipes.addShaped(<extrautils2:teleporter:1>, [[<avaritia:resource:4>, <avaritia:resource:4>, <avaritia:resource:4>],[<avaritia:resource:4>, <enderio:block_tele_pad>, <avaritia:resource:4>], [<avaritia:resource:4>, <mekanism:controlcircuit:3>, <avaritia:resource:4>]]);
 recipes.addShaped(<appliedenergistics2:material:13>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <techreborn:part:30>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
 recipes.addShaped(<appliedenergistics2:material:19>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <advancedrocketry:wafer>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
