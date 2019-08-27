@@ -1,6 +1,12 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<advancedrocketry:rocketmotor>);
+recipes.removeShaped(<advancedrocketry:intake>, [[null, null, null],[null, null, <minecraft:hopper>], [null, null, null]]);
+recipes.remove(<advancedrocketry:satellitebuilder>);
+recipes.remove(<advancedrocketry:loader:1>);
+recipes.remove(<advancedrocketry:advrocketmotor>);
+recipes.remove(<advancedrocketry:rocketbuilder>);
 recipes.remove(<yabba:upgrade_star_tier>);
 recipes.remove(<extrautils2:teleporter:1>);
 recipes.remove(<techreborn:peridotchestplate>);
@@ -44,6 +50,14 @@ recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_death
 recipes.remove(<extrautils2:machine>.withTag({Type: "extrautils2:generator_ice"}));
 //Don't touch me!
 //#Add
+recipes.addShaped(<advancedrocketry:satellite>, [[<libvulpes:productsheet:9>, <libvulpes:productsheet:9>, <libvulpes:productsheet:9>],[<tconstruct:tough_tool_rod>.withTag({Material: "cobalt"}).onlyWithTag({Material: "cobalt"}), <advancedrocketry:ic:3>, <tconstruct:tough_tool_rod>.withTag({Material: "cobalt"}).onlyWithTag({Material: "cobalt"})], [<libvulpes:productsheet:9>, <libvulpes:productsheet:9>, <libvulpes:productsheet:9>]]);
+recipes.addShaped(<advancedrocketry:loader:1>, [[null, <tconstruct:tough_tool_rod>.withTag({Material: "cobalt"}).onlyWithTag({Material: "cobalt"}), null],[<tconstruct:tough_tool_rod>.withTag({Material: "cobalt"}).onlyWithTag({Material: "cobalt"}), <libvulpes:structuremachine>, <tconstruct:tough_tool_rod>.withTag({Material: "cobalt"}).onlyWithTag({Material: "cobalt"})], [null, <tconstruct:tough_tool_rod>.withTag({Material: "cobalt"}).onlyWithTag({Material: "cobalt"}), null]]);
+recipes.addShaped(<advancedrocketry:rocketmotor>, [[<ore:ingotSteel>, <ore:ingotSteel>, <ore:ingotSteel>],[null, <techreborn:plates:32>, null], [<techreborn:plates:32>, null, <techreborn:plates:32>]]);
+recipes.addShaped(<advancedrocketry:intake>, [[<tconstruct:tough_tool_rod>.withTag({Material: "xu_demonic_metal"}).onlyWithTag({Material: "xu_demonic_metal"}), <minecraft:hopper>, <tconstruct:tough_tool_rod>.withTag({Material: "cobalt"}).onlyWithTag({Material: "cobalt"})],[<minecraft:hopper>, <libvulpes:structuremachine>, <minecraft:hopper>], [<tconstruct:tough_tool_rod>.withTag({Material: "cobalt"}).onlyWithTag({Material: "cobalt"}), <minecraft:hopper>, <tconstruct:tough_tool_rod>.withTag({Material: "xu_demonic_metal"}).onlyWithTag({Material: "xu_demonic_metal"})]]);
+recipes.addShaped(<advancedrocketry:intake>, [[<tconstruct:tough_tool_rod>, <minecraft:hopper>, <tconstruct:tough_tool_rod>],[<minecraft:hopper>, <libvulpes:structuremachine>, <minecraft:hopper>], [<tconstruct:tough_tool_rod>, <minecraft:hopper>, <tconstruct:tough_tool_rod>]]);
+recipes.addShaped(<advancedrocketry:satellitebuilder>, [[<advancedrocketry:dataunit>, <minecraft:hopper>, <techreborn:plates:33>],[<advancedrocketry:ic>, <libvulpes:structuremachine>, <advancedrocketry:ic>], [<libvulpes:motor>, <minecraft:anvil>, <advancedrocketry:sawblade>]]);
+recipes.addShaped(<advancedrocketry:advrocketmotor>, [[<techreborn:ingot:15>, <techreborn:ingot:15>, <techreborn:ingot:15>],[null, <techreborn:plates:33>, null], [<techreborn:plates:33>, null, <techreborn:plates:33>]]);
+recipes.addShaped(<advancedrocketry:rocketbuilder>, [[<tconstruct:tough_tool_rod>.withTag({Material: "xu_demonic_metal"}).onlyWithTag({Material: "xu_demonic_metal"}), <advancedrocketry:misc>, <tconstruct:tough_tool_rod>.withTag({Material: "xu_demonic_metal"}).onlyWithTag({Material: "xu_demonic_metal"})],[<advancedrocketry:ic:3>, <libvulpes:structuremachine>, <advancedrocketry:ic:3>], [<techreborn:part:6>, <advancedrocketry:concrete>, <techreborn:part:6>]]);
 recipes.addShaped(<appliedenergistics2:material:14>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <mekanism:controlcircuit:3>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
 recipes.addShaped(<appliedenergistics2:material:15>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>],[<minecraft:iron_block>, <extrautils2:ingredients:9>, <minecraft:iron_block>], [<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]]);
 recipes.addShaped(<appliedenergistics2:controller>, [[<ore:blockSteel>, <appliedenergistics2:material:12>, <ore:blockSteel>],[<appliedenergistics2:material:12>, <appliedenergistics2:material:24>, <appliedenergistics2:material:12>], [<ore:blockSteel>, <appliedenergistics2:material:12>, <ore:blockSteel>]]);

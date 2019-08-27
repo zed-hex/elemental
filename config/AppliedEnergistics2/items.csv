@@ -1906,7 +1906,59 @@ forestry:resource_storage:2, Block of Tin
 forestry:resource_storage:3, Block of Bronze
 forestry:ash_brick:0, Ash Bricks
 forestry:ash_stairs:0, Ash Brick Stairs
+forestry:habitat_former:0, Habitat Former
+forestry:habitat_screen, Habitat Screen
+forestry:database:0, Database
 forestry:genetic_filter:0, Genetic Filter
+forestry:charcoal:0, Block of Charcoal
+forestry:wood_pile:0, Wood Pile
+forestry:wood_pile_decorative:0, Decorative Wood Pile
+forestry:ash_block_0:0, Ash Block
+forestry:ash_block_1:0, Ash Block
+forestry:ash_block_2:0, Ash Block
+forestry:ash_block_3:0, Ash Block
+forestry:loam:0, Loam
+forestry:crate, Crate
+forestry:book_forester, Forester's Manual
+forestry:apiarist_bag, Apiarist's Backpack
+forestry:lepidopterist_bag, Lepidopterist's Backpack
+forestry:miner_bag, Mining Backpack
+forestry:miner_bag_t2, Woven Mining Backpack
+forestry:digger_bag, Digging Backpack
+forestry:digger_bag_t2, Woven Digging Backpack
+forestry:forester_bag, Foresting Backpack
+forestry:forester_bag_t2, Woven Foresting Backpack
+forestry:hunter_bag, Hunting Backpack
+forestry:hunter_bag_t2, Woven Hunting Backpack
+forestry:adventurer_bag, Adventuring Backpack
+forestry:adventurer_bag_t2, Woven Adventuring Backpack
+forestry:builder_bag, Building Backpack
+forestry:builder_bag_t2, Woven Building Backpack
+forestry:worktable:0, Worktable
+forestry:bottler:0, Bottler
+forestry:carpenter:0, Carpenter
+forestry:centrifuge:0, Centrifuge
+forestry:fermenter:0, Fermenter
+forestry:moistener:0, Moistener
+forestry:squeezer:0, Squeezer
+forestry:still:0, Still
+forestry:rainmaker:0, Rainmaker
+forestry:fabricator:0, Thermionic Fabricator
+forestry:raintank:0, Rain Tank
+forestry:greenhouse:0, Greenhouse Block
+forestry:greenhouse:3, Greenhouse Energy Distributor
+forestry:greenhouse:4, Greenhouse Control
+forestry:greenhouse:5, Greenhouse Screen
+forestry:climatiser:0, Greenhouse Hygroregulator
+forestry:climatiser:1, Greenhouse Heater
+forestry:climatiser:2, Greenhouse Fan
+forestry:climatiser:3, Greenhouse Humidifier
+forestry:climatiser:4, Greenhouse Dehumidifier
+forestry:greenhouse.window:0, Greenhouse Window
+forestry:greenhouse.window_up:0, Greenhouse Roof Window
+forestry:honeyed_slice, Honeyed Slice
+forestry:ambrosia, Ambrosia
+forestry:honey_pot, Honey Pot
 forestry:grafter, Grafter
 forestry:grafter_proven, Proven Grafter
 forestry:logs.0:0, Larch Wood
@@ -2359,18 +2411,9 @@ forestry:leaves.decorative.2:0, Papaya Leaves
 forestry:leaves.decorative.2:1, Date Palm Leaves
 forestry:leaves.decorative.2:2, White Poplar Leaves
 forestry:tree_chest:0, Arborist's Chest
-forestry:stamps:0, Stamp (1n)
-forestry:stamps:1, Stamp (2n)
-forestry:stamps:2, Stamp (5n)
-forestry:stamps:3, Stamp (10n)
-forestry:stamps:4, Stamp (20n)
-forestry:stamps:5, Stamp (50n)
-forestry:stamps:6, Stamp (100n)
-forestry:letters, Letter
-forestry:catalogue, Catalogue
-forestry:mailbox:0, Mailbox
-forestry:trade_station:0, Trade Station
-forestry:stamp_collector:0, Stamp Collector
+forestry:butterfly_chest:0, Lepidopterist's Chest
+forestry:cocoon:0, tile.for.cocoon.name
+forestry:cocoon.solid:0, tile.for.cocoon.solid.name
 forestry:fluid.bio.ethanol, Ethanol
 forestry:fluid.biomass, Biomass
 forestry:fluid.glass, Liquid Glass
@@ -2383,40 +2426,21 @@ forestry:fluid.short.mead, Short Mead
 forestry:can, item.for.can.name
 forestry:capsule, item.for.capsule.name
 forestry:refractory, item.for.refractory.name
-forestry:honeyed_slice, Honeyed Slice
-forestry:ambrosia, Ambrosia
-forestry:honey_pot, Honey Pot
-forestry:habitat_former:0, Habitat Former
-forestry:habitat_screen, Habitat Screen
-forestry:database:0, Database
-forestry:apiarist_bag, Apiarist's Backpack
-forestry:lepidopterist_bag, Lepidopterist's Backpack
-forestry:miner_bag, Mining Backpack
-forestry:miner_bag_t2, Woven Mining Backpack
-forestry:digger_bag, Digging Backpack
-forestry:digger_bag_t2, Woven Digging Backpack
-forestry:forester_bag, Foresting Backpack
-forestry:forester_bag_t2, Woven Foresting Backpack
-forestry:hunter_bag, Hunting Backpack
-forestry:hunter_bag_t2, Woven Hunting Backpack
-forestry:adventurer_bag, Adventuring Backpack
-forestry:adventurer_bag_t2, Woven Adventuring Backpack
-forestry:builder_bag, Building Backpack
-forestry:builder_bag_t2, Woven Building Backpack
-forestry:butterfly_chest:0, Lepidopterist's Chest
-forestry:cocoon:0, tile.for.cocoon.name
-forestry:cocoon.solid:0, tile.for.cocoon.solid.name
-forestry:charcoal:0, Block of Charcoal
-forestry:wood_pile:0, Wood Pile
-forestry:wood_pile_decorative:0, Decorative Wood Pile
-forestry:ash_block_0:0, Ash Block
-forestry:ash_block_1:0, Ash Block
-forestry:ash_block_2:0, Ash Block
-forestry:ash_block_3:0, Ash Block
-forestry:loam:0, Loam
-forestry:crate, Crate
-forestry:worktable:0, Worktable
-forestry:book_forester, Forester's Manual
+forestry:engine_peat:0, Peat-fired Engine
+forestry:engine_biogas:0, Biogas Engine
+forestry:engine_clockwork:0, Clockwork Engine
+forestry:stamps:0, Stamp (1n)
+forestry:stamps:1, Stamp (2n)
+forestry:stamps:2, Stamp (5n)
+forestry:stamps:3, Stamp (10n)
+forestry:stamps:4, Stamp (20n)
+forestry:stamps:5, Stamp (50n)
+forestry:stamps:6, Stamp (100n)
+forestry:letters, Letter
+forestry:catalogue, Catalogue
+forestry:mailbox:0, Mailbox
+forestry:trade_station:0, Trade Station
+forestry:stamp_collector:0, Stamp Collector
 forestry:habitat_locator, Habitat Locator
 forestry:imprinter, Imprinter
 forestry:cart.beehouse:0, Minecart with Bee House
@@ -2533,30 +2557,6 @@ forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
 forestry:ffarm:5, Farm Control
-forestry:engine_peat:0, Peat-fired Engine
-forestry:engine_biogas:0, Biogas Engine
-forestry:engine_clockwork:0, Clockwork Engine
-forestry:greenhouse:0, Greenhouse Block
-forestry:greenhouse:3, Greenhouse Energy Distributor
-forestry:greenhouse:4, Greenhouse Control
-forestry:greenhouse:5, Greenhouse Screen
-forestry:climatiser:0, Greenhouse Hygroregulator
-forestry:climatiser:1, Greenhouse Heater
-forestry:climatiser:2, Greenhouse Fan
-forestry:climatiser:3, Greenhouse Humidifier
-forestry:climatiser:4, Greenhouse Dehumidifier
-forestry:greenhouse.window:0, Greenhouse Window
-forestry:greenhouse.window_up:0, Greenhouse Roof Window
-forestry:bottler:0, Bottler
-forestry:carpenter:0, Carpenter
-forestry:centrifuge:0, Centrifuge
-forestry:fermenter:0, Fermenter
-forestry:moistener:0, Moistener
-forestry:squeezer:0, Squeezer
-forestry:still:0, Still
-forestry:rainmaker:0, Rainmaker
-forestry:fabricator:0, Thermionic Fabricator
-forestry:raintank:0, Rain Tank
 forestry:arboretum:0, Arboretum (Managed)
 forestry:arboretum:1, Arboretum (Manual)
 forestry:farm_crops:0, Farm (Managed)
@@ -2574,8 +2574,6 @@ forestry:peat_bog:1, Peat Bog (Manual)
 enderstorage:ender_storage:0, Ender Chest
 enderstorage:ender_storage:1, Ender Tank
 enderstorage:ender_pouch, Ender Pouch
-extrautils2:snowglobe:0, Magical Snow Globe
-extrautils2:snowglobe:1, Magical Snow Globe
 extrautils2:wateringcan, Watering Can
 extrautils2:itemcreativedestructionwand, Creative Destruction Wand
 extrautils2:unstableingots:0, Unstable Ingot
@@ -2668,8 +2666,6 @@ extrautils2:ingredients:16, Upgrade Speed (Ultimate)
 extrautils2:ingredients:17, Evil Infused Iron Ingot
 extrautils2:goldenlasso:0, Golden Lasso
 extrautils2:goldenlasso:1, Cursed Lasso
-extrautils2:chickenring:0, Chicken Wing Ring
-extrautils2:chickenring:1, Ring of the Flying Squid
 extrautils2:powermanager, Power Manager
 extrautils2:bagofholding, Bag Of Holding
 extrautils2:decorativeglass:0, Thickened Glass
@@ -3949,6 +3945,10 @@ thermaldynamics:cover:0, Block of Tin Cover
 thermaldynamics:cover:0, Block of Bronze Cover
 thermaldynamics:cover:0, Ash Bricks Cover
 thermaldynamics:cover:0, Ash Brick Stairs Cover
+thermaldynamics:cover:0, Block of Charcoal Cover
+thermaldynamics:cover:0, Wood Pile Cover
+thermaldynamics:cover:0, Decorative Wood Pile Cover
+thermaldynamics:cover:0, Loam Cover
 thermaldynamics:cover:0, Larch Wood Cover
 thermaldynamics:cover:0, Teak Wood Cover
 thermaldynamics:cover:0, Desert Acacia Wood Cover
@@ -4397,10 +4397,6 @@ thermaldynamics:cover:0, Sipiri Leaves Cover
 thermaldynamics:cover:0, Papaya Leaves Cover
 thermaldynamics:cover:0, Date Palm Leaves Cover
 thermaldynamics:cover:0, White Poplar Leaves Cover
-thermaldynamics:cover:0, Block of Charcoal Cover
-thermaldynamics:cover:0, Wood Pile Cover
-thermaldynamics:cover:0, Decorative Wood Pile Cover
-thermaldynamics:cover:0, Loam Cover
 thermaldynamics:cover:0, Candle Stump Cover
 thermaldynamics:cover:0, Honey Comb Block Cover
 thermaldynamics:cover:0, Simmering Comb Block Cover
@@ -7447,6 +7443,23 @@ appliedenergistics2:facade:0, Cable Facade - Block of Copper
 appliedenergistics2:facade:0, Cable Facade - Block of Tin
 appliedenergistics2:facade:0, Cable Facade - Block of Bronze
 appliedenergistics2:facade:0, Cable Facade - Ash Bricks
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Wood Pile
+appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Loam
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Block
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Energy Distributor
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Control
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Screen
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Hygroregulator
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Heater
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Fan
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Humidifier
+appliedenergistics2:facade:0, Cable Facade - Greenhouse Dehumidifier
 appliedenergistics2:facade:0, Cable Facade - Larch Wood
 appliedenergistics2:facade:0, Cable Facade - Teak Wood
 appliedenergistics2:facade:0, Cable Facade - Desert Acacia Wood
@@ -7610,14 +7623,6 @@ appliedenergistics2:facade:0, Cable Facade - Sipiri Leaves
 appliedenergistics2:facade:0, Cable Facade - Papaya Leaves
 appliedenergistics2:facade:0, Cable Facade - Date Palm Leaves
 appliedenergistics2:facade:0, Cable Facade - White Poplar Leaves
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Wood Pile
-appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Loam
 appliedenergistics2:facade:0, Cable Facade - Honey Comb Block
 appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block
 appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block
@@ -7627,15 +7632,6 @@ appliedenergistics2:facade:0, Cable Facade - Silky Comb Block
 appliedenergistics2:facade:0, Cable Facade - Parched Comb Block
 appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block
 appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Block
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Energy Distributor
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Control
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Screen
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Hygroregulator
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Heater
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Fan
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Humidifier
-appliedenergistics2:facade:0, Cable Facade - Greenhouse Dehumidifier
 appliedenergistics2:facade:0, Cable Facade - Magical Planks
 appliedenergistics2:facade:0, Cable Facade - Magical Wood
 appliedenergistics2:facade:0, Cable Facade - Diagonal Wood
@@ -10062,6 +10058,7 @@ appliedenergistics2:facade:0, Cable Facade - Shield Template
 appliedenergistics2:facade:0, Cable Facade - Shield Template
 appliedenergistics2:facade:0, Cable Facade - Shield Template
 appliedenergistics2:facade:0, Cable Facade - Shield Template
+appliedenergistics2:facade:0, Cable Facade - Reinforced Metal Block
 appliedenergistics2:facade:0, Cable Facade - Inventory Cable
 appliedenergistics2:facade:0, Cable Facade - Copper Block
 appliedenergistics2:facade:0, Cable Facade - Lead Block
@@ -11464,41 +11461,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Armor Trim Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Leggings Core Pattern
 tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Pan Pattern
 tconstruct:pattern:0, Large Plate Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
 tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Wide Guard Pattern
 tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Excavator Head Pattern
 tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Armor Trim Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -13102,78 +13099,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Armor Trim Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Leggings Core Cast
 tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Pan Cast
 tconstruct:cast:0, Large Plate Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Binding Cast
 tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Wide Guard Cast
 tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Excavator Head Cast
 tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Armor Trim Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Armor Trim Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
 tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
 tconstruct:clay_cast:0, Large Plate Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
 tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
 tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Armor Trim Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -14373,6 +14370,191 @@ rftools:ender_monitor, Ender Monitor
 rftools:storage_scanner, Storage Scanner
 rftools:elevator, Elevator
 rftools:booster, Booster
+stevescarts:blockcartassembler, Cart Assembler
+stevescarts:blockcargomanager, Cargo Manager
+stevescarts:blockliquidmanager, Liquid Manager
+stevescarts:blockdistributor, External Distributor
+stevescarts:blockactivator, Module Toggler
+stevescarts:blockdetector:0, Detector Manager
+stevescarts:blockdetector:1, Detector Unit
+stevescarts:blockdetector:2, Detector Station
+stevescarts:blockdetector:3, Detector Junction
+stevescarts:blockdetector:4, Detector Redstone Unit
+stevescarts:upgrade:0, Upgrade: Batteries
+stevescarts:upgrade:1, Upgrade: Power Crystal
+stevescarts:upgrade:2, Upgrade: Module knowledge
+stevescarts:upgrade:3, Upgrade: Industrial espionage
+stevescarts:upgrade:4, Upgrade: Experienced assembler
+stevescarts:upgrade:5, Upgrade: New Era
+stevescarts:upgrade:6, Upgrade: CO2 friendly
+stevescarts:upgrade:7, Upgrade: Generic engine
+stevescarts:upgrade:8, Upgrade: Module input
+stevescarts:upgrade:9, Upgrade: Production line
+stevescarts:upgrade:10, Upgrade: Cart Deployer
+stevescarts:upgrade:11, Upgrade: Cart Modifier
+stevescarts:upgrade:12, Upgrade: Cart Crane
+stevescarts:upgrade:13, Upgrade: Redstone Control
+stevescarts:upgrade:14, Upgrade: Creative Mode
+stevescarts:upgrade:15, Upgrade: Quick Demolisher
+stevescarts:upgrade:16, Upgrade: Entropy
+stevescarts:upgrade:17, Upgrade: Manager Bridge
+stevescarts:upgrade:18, Thermal Engine
+stevescarts:upgrade:19, Upgrade: Solar Panel
+stevescarts:blockjunction, Junction Rail
+stevescarts:blockadvdetector, Advanced Detector Rail
+stevescarts:blockmetalstorage:0, Reinforced Metal Block
+stevescarts:blockmetalstorage:1, Galgadorian Block
+stevescarts:blockmetalstorage:2, Enhanced Galgadorian Block
+stevescarts:modularcart:0, Modular Cart
+stevescarts:modulecomponents:0, Wooden Wheels
+stevescarts:modulecomponents:1, Iron Wheels
+stevescarts:modulecomponents:2, Red Pigment
+stevescarts:modulecomponents:3, Green Pigment
+stevescarts:modulecomponents:4, Blue Pigment
+stevescarts:modulecomponents:5, Glass o'Magic
+stevescarts:modulecomponents:6, Dynamite
+stevescarts:modulecomponents:9, Simple PCB
+stevescarts:modulecomponents:10, Graphical Interface
+stevescarts:modulecomponents:11, Raw Handle
+stevescarts:modulecomponents:12, Refined Handle
+stevescarts:modulecomponents:13, Speed Handle
+stevescarts:modulecomponents:14, Wheel
+stevescarts:modulecomponents:15, Saw Blade
+stevescarts:modulecomponents:16, Advanced PCB
+stevescarts:modulecomponents:17, Wood Cutting Core
+stevescarts:modulecomponents:18, Raw Hardener
+stevescarts:modulecomponents:19, Refined Hardener
+stevescarts:modulecomponents:20, Hardened Mesh
+stevescarts:modulecomponents:21, Stabilized Metal
+stevescarts:modulecomponents:22, Reinforced Metal
+stevescarts:modulecomponents:23, Reinforced Wheels
+stevescarts:modulecomponents:24, Pipe
+stevescarts:modulecomponents:25, Shooting Station
+stevescarts:modulecomponents:26, Entity Scanner
+stevescarts:modulecomponents:27, Entity Analyzer
+stevescarts:modulecomponents:28, Empty Disk
+stevescarts:modulecomponents:29, Tri-torch
+stevescarts:modulecomponents:30, Chest Pane
+stevescarts:modulecomponents:31, Large Chest Pane
+stevescarts:modulecomponents:32, Huge Chest Pane
+stevescarts:modulecomponents:33, Chest Lock
+stevescarts:modulecomponents:34, Iron Pane
+stevescarts:modulecomponents:35, Large Iron Pane
+stevescarts:modulecomponents:36, Huge Iron Pane
+stevescarts:modulecomponents:37, Dynamic Pane
+stevescarts:modulecomponents:38, Large Dynamic Pane
+stevescarts:modulecomponents:39, Huge Dynamic Pane
+stevescarts:modulecomponents:40, Cleaning Fan
+stevescarts:modulecomponents:41, Cleaning Core
+stevescarts:modulecomponents:42, Cleaning Tube
+stevescarts:modulecomponents:43, Fuse
+stevescarts:modulecomponents:44, Solar Panel
+stevescarts:modulecomponents:45, Eye of Galgador
+stevescarts:modulecomponents:46, Lump of Galgador
+stevescarts:modulecomponents:47, Galgadorian Metal
+stevescarts:modulecomponents:48, Large Lump of Galgador
+stevescarts:modulecomponents:49, Enhanced Galgadorian Metal
+stevescarts:modulecomponents:58, Advanced Solar Panel
+stevescarts:modulecomponents:59, Blank Upgrade
+stevescarts:modulecomponents:60, Tank Valve
+stevescarts:modulecomponents:61, Tank Pane
+stevescarts:modulecomponents:62, Large Tank Pane
+stevescarts:modulecomponents:63, Huge Tank Pane
+stevescarts:modulecomponents:64, Liquid Cleaning Core
+stevescarts:modulecomponents:65, Liquid Cleaning Tube
+stevescarts:modulecomponents:80, Hardened Saw Blade
+stevescarts:modulecomponents:81, Galgadorian Saw Blade
+stevescarts:modulecomponents:82, Galgadorian Wheels
+stevescarts:modulecomponents:83, Iron Blade
+stevescarts:modulecomponents:84, Blade Arm
+stevescarts:cartmodule:0, Coal Engine
+stevescarts:cartmodule:1, Solar Engine
+stevescarts:cartmodule:2, Side Chests
+stevescarts:cartmodule:3, Top Chest
+stevescarts:cartmodule:4, Front Chest
+stevescarts:cartmodule:5, Internal Storage
+stevescarts:cartmodule:6, Extracting Chests
+stevescarts:cartmodule:7, Torch Placer
+stevescarts:cartmodule:8, Basic Drill
+stevescarts:cartmodule:9, Galgadorian Drill
+stevescarts:cartmodule:10, Railer
+stevescarts:cartmodule:11, Large Railer
+stevescarts:cartmodule:12, Bridge Builder
+stevescarts:cartmodule:13, Track Remover
+stevescarts:cartmodule:14, Basic Farmer
+stevescarts:cartmodule:15, Basic Wood Cutter
+stevescarts:cartmodule:16, Hydrator
+stevescarts:cartmodule:18, Fertilizer
+stevescarts:cartmodule:19, Height Controller
+stevescarts:cartmodule:20, Liquid Sensors
+stevescarts:cartmodule:21, Entity Detector: Animal
+stevescarts:cartmodule:22, Entity Detector: Player
+stevescarts:cartmodule:23, Entity Detector: Villager
+stevescarts:cartmodule:24, Entity Detector: Monster
+stevescarts:cartmodule:25, Seat
+stevescarts:cartmodule:26, Brake Handle
+stevescarts:cartmodule:27, Advanced Control System
+stevescarts:cartmodule:28, Shooter
+stevescarts:cartmodule:29, Advanced Shooter
+stevescarts:cartmodule:30, Cleaning Machine
+stevescarts:cartmodule:31, Dynamite Carrier
+stevescarts:cartmodule:32, Divine Shield
+stevescarts:cartmodule:33, Melter
+stevescarts:cartmodule:34, Extreme Melter
+stevescarts:cartmodule:36, Invisibility Core
+stevescarts:cartmodule:37, Wooden Hull
+stevescarts:cartmodule:38, Standard Hull
+stevescarts:cartmodule:39, Reinforced Hull
+stevescarts:cartmodule:40, Note Sequencer
+stevescarts:cartmodule:41, Colorizer
+stevescarts:cartmodule:42, Iron Drill
+stevescarts:cartmodule:43, Hardened Drill
+stevescarts:cartmodule:44, Tiny Coal Engine
+stevescarts:cartmodule:45, Basic Solar Engine
+stevescarts:cartmodule:49, Chunk Loader
+stevescarts:cartmodule:51, Projectile: Potion
+stevescarts:cartmodule:53, Projectile: Egg
+stevescarts:cartmodule:56, Compact Solar Engine
+stevescarts:cartmodule:57, Cage
+stevescarts:cartmodule:58, Crop: Nether Wart
+stevescarts:cartmodule:59, Firework display
+stevescarts:cartmodule:61, Creative Engine
+stevescarts:cartmodule:62, Mechanical Pig
+stevescarts:cartmodule:63, Internal Tank
+stevescarts:cartmodule:64, Side Tanks
+stevescarts:cartmodule:65, Top Tank
+stevescarts:cartmodule:66, Advanced Tank
+stevescarts:cartmodule:67, Front Tank
+stevescarts:cartmodule:68, Incinerator
+stevescarts:cartmodule:69, Thermal Engine
+stevescarts:cartmodule:70, Advanced Thermal Engine
+stevescarts:cartmodule:71, Liquid Cleaner
+stevescarts:cartmodule:72, Creative Tank
+stevescarts:cartmodule:73, Open Tank
+stevescarts:cartmodule:75, Drill Intelligence
+stevescarts:cartmodule:76, Creative Hull
+stevescarts:cartmodule:77, Power Observer
+stevescarts:cartmodule:78, Steve's Arcade
+stevescarts:cartmodule:79, Hardened Wood Cutter
+stevescarts:cartmodule:80, Galgadorian Wood Cutter
+stevescarts:cartmodule:81, Galgadorian Hull
+stevescarts:cartmodule:82, Enchanter
+stevescarts:cartmodule:83, Ore Extractor
+stevescarts:cartmodule:84, Galgadorian Farmer
+stevescarts:cartmodule:85, Lawn Mower
+stevescarts:cartmodule:86, Milker
+stevescarts:cartmodule:87, Crafter
+stevescarts:cartmodule:89, Planter Range Extender
+stevescarts:cartmodule:91, Smelter
+stevescarts:cartmodule:92, Advanced Crafter
+stevescarts:cartmodule:93, Advanced Smelter
+stevescarts:cartmodule:94, Information Provider
+stevescarts:cartmodule:95, Experience Bank
+stevescarts:cartmodule:96, Creative Incinerator
+stevescarts:cartmodule:97, Creative Supplies
+stevescarts:cartmodule:99, Cake Server
+stevescarts:cartmodule:101, Color Randomizer
+stevescarts:cartmodule:102, Tree Tap Module
 superfactorymanager:cable_relay:0, Inventory Relay
 superfactorymanager:cable_relay:8, Advanced Inventory Relay
 superfactorymanager:cable_intake:0, Item Valve
@@ -14790,4 +14972,31 @@ forestry:crated.ingotbrass, item.crated.ingotBrass.name
 forestry:crated.ingotnickel, item.crated.ingotNickel.name
 forestry:crated.ingotsilver, item.crated.ingotSilver.name
 forestry:crated.itemrubber, item.crated.itemRubber.name
+morebees:hive, Rock Hive
+morebees:framesweet, Sweet Frame
+morebees:framecooled, Super Cooled Frame
+morebees:framemutating, Mutating Frame
+morebees:combrock, Rocky Comb
+morebees:combdirt, Dirty Comb
+morebees:combwither, Withering Comb
+morebees:combslime, Slimy Comb
+morebees:combmetallic, Metallic Comb
+morebees:combcrystal, Crystal Comb
+morebees:diamondfragment, Diamond Fragment
+morebees:emeraldfragment, Emerald Fragment
+morebees:nether_starfragment, Nether Star Fragment
+morebees:propolismetallic, Metallic Propolis
+morebees:propoliscrystal, Crystal Propolis
+morebees:grainmetallic, Metallic Grains
+morebees:graincrystal, Crystal Grains
+morebees:dustiron, Iron Dust
+morebees:dustcopper, Copper Dust
+morebees:dusttin, Tin Dust
+morebees:dustgold, Gold Dust
+morebees:dustlead, Lead Dust
+morebees:dustsilver, Silver Dust
+morebees:dustaluminium, Aluminium Dust
+morebees:dustnickel, Nickel Dust
+morebees:dustplatinum, Platinum Dust
+morebees:dustiridium, Iridium Dust
 guideapi:bloodmagic-guide, item.guideapi.book.bloodmagic.guide.name
