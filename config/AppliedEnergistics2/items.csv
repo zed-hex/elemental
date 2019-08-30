@@ -1906,20 +1906,154 @@ forestry:resource_storage:2, Block of Tin
 forestry:resource_storage:3, Block of Bronze
 forestry:ash_brick:0, Ash Bricks
 forestry:ash_stairs:0, Ash Brick Stairs
-forestry:habitat_former:0, Habitat Former
-forestry:habitat_screen, Habitat Screen
-forestry:database:0, Database
-forestry:genetic_filter:0, Genetic Filter
-forestry:charcoal:0, Block of Charcoal
-forestry:wood_pile:0, Wood Pile
-forestry:wood_pile_decorative:0, Decorative Wood Pile
-forestry:ash_block_0:0, Ash Block
-forestry:ash_block_1:0, Ash Block
-forestry:ash_block_2:0, Ash Block
-forestry:ash_block_3:0, Ash Block
-forestry:loam:0, Loam
 forestry:crate, Crate
-forestry:book_forester, Forester's Manual
+forestry:honeyed_slice, Honeyed Slice
+forestry:ambrosia, Ambrosia
+forestry:honey_pot, Honey Pot
+forestry:greenhouse:0, Greenhouse Block
+forestry:greenhouse:3, Greenhouse Energy Distributor
+forestry:greenhouse:4, Greenhouse Control
+forestry:greenhouse:5, Greenhouse Screen
+forestry:climatiser:0, Greenhouse Hygroregulator
+forestry:climatiser:1, Greenhouse Heater
+forestry:climatiser:2, Greenhouse Fan
+forestry:climatiser:3, Greenhouse Humidifier
+forestry:climatiser:4, Greenhouse Dehumidifier
+forestry:greenhouse.window:0, Greenhouse Window
+forestry:greenhouse.window_up:0, Greenhouse Roof Window
+forestry:habitat_locator, Habitat Locator
+forestry:imprinter, Imprinter
+forestry:cart.beehouse:0, Minecart with Bee House
+forestry:cart.beehouse:1, Minecart with Apiary
+forestry:frame_untreated, Untreated Frame
+forestry:frame_impregnated, Impregnated Frame
+forestry:frame_proven, Proven Frame
+forestry:honey_drop:0, Honey Drop
+forestry:pollen:0, Pollen Cluster
+forestry:pollen:1, Crystalline Pollen Cluster
+forestry:propolis:0, Propolis
+forestry:propolis:1, Sticky Propolis
+forestry:propolis:3, Silky Propolis
+forestry:honeydew, Honeydew
+forestry:royal_jelly, Royal Jelly
+forestry:wax_cast, Wax Cast
+forestry:bee_combs:0, Honey Comb
+forestry:bee_combs:2, Simmering Comb
+forestry:bee_combs:3, Stringy Comb
+forestry:bee_combs:4, Frozen Comb
+forestry:bee_combs:5, Dripping Comb
+forestry:bee_combs:6, Silky Comb
+forestry:bee_combs:7, Parched Comb
+forestry:bee_combs:15, Mossy Comb
+forestry:bee_combs:16, Mellow Comb
+forestry:apiarist_helmet, Apiarist's Hat
+forestry:apiarist_chest, Apiarist's Shirt
+forestry:apiarist_legs, Apiarist's Pants
+forestry:apiarist_boots, Apiarist's Shoes
+forestry:scoop, Scoop
+forestry:smoker, Bee Smoker
+forestry:apiary:0, Apiary
+forestry:bee_house:0, Bee House
+forestry:bee_chest:0, Apiarist's Chest
+forestry:beehives:0, Forest Hive
+forestry:beehives:1, Meadows Hive
+forestry:beehives:2, Modest Hive
+forestry:beehives:3, Tropical Hive
+forestry:beehives:4, Ender Hive
+forestry:beehives:5, Wintry Hive
+forestry:beehives:6, Marshy Hive
+forestry:candle:0, Unlit Candle
+forestry:stump:0, Candle Stump
+forestry:bee_combs_0:0, Honey Comb Block
+forestry:bee_combs_0:2, Simmering Comb Block
+forestry:bee_combs_0:3, Stringy Comb Block
+forestry:bee_combs_0:4, Frozen Comb Block
+forestry:bee_combs_0:5, Dripping Comb Block
+forestry:bee_combs_0:6, Silky Comb Block
+forestry:bee_combs_0:7, Parched Comb Block
+forestry:bee_combs_0:15, Mossy Comb Block
+forestry:bee_combs_1:0, Mellow Comb Block
+forestry:alveary.plain:0, Alveary
+forestry:alveary.swarmer:0, Alveary Swarmer
+forestry:alveary.fan:0, Alveary Fan
+forestry:alveary.heater:0, Alveary Heater
+forestry:alveary.hygro:0, Alveary Hygroregulator
+forestry:alveary.stabiliser:0, Alveary Stabiliser
+forestry:alveary.sieve:0, Alveary Sieve
+forestry:engine_peat:0, Peat-fired Engine
+forestry:engine_biogas:0, Biogas Engine
+forestry:engine_clockwork:0, Clockwork Engine
+forestry:mushroom:0, tile.for.mushroom.name
+forestry:mushroom:1, tile.for.mushroom.name
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:0, Farm Block
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:2, Farm Gearbox
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:3, Farm Hatch
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:4, Farm Valve
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:ffarm:5, Farm Control
+forestry:arboretum:0, Arboretum (Managed)
+forestry:arboretum:1, Arboretum (Manual)
+forestry:farm_crops:0, Farm (Managed)
+forestry:farm_crops:1, Farm (Manual)
+forestry:farm_mushroom:0, Mushroom Farm (Managed)
+forestry:farm_mushroom:1, Mushroom Farm (Manual)
+forestry:farm_gourd:0, Gourd Farm (Managed)
+forestry:farm_gourd:1, Gourd Farm (Manual)
+forestry:farm_nether:0, Infernal Farm (Managed)
+forestry:farm_nether:1, Infernal Farm (Manual)
+forestry:farm_ender:0, Ender Farm (Managed)
+forestry:farm_ender:1, Ender Farm (Manual)
+forestry:peat_bog:0, Peat Bog (Managed)
+forestry:peat_bog:1, Peat Bog (Manual)
 forestry:apiarist_bag, Apiarist's Backpack
 forestry:lepidopterist_bag, Lepidopterist's Backpack
 forestry:miner_bag, Mining Backpack
@@ -1934,7 +2068,18 @@ forestry:adventurer_bag, Adventuring Backpack
 forestry:adventurer_bag_t2, Woven Adventuring Backpack
 forestry:builder_bag, Building Backpack
 forestry:builder_bag_t2, Woven Building Backpack
-forestry:worktable:0, Worktable
+forestry:fluid.bio.ethanol, Ethanol
+forestry:fluid.biomass, Biomass
+forestry:fluid.glass, Liquid Glass
+forestry:fluid.for.honey, Honey
+forestry:fluid.ice, Crushed Ice
+forestry:fluid.juice, Fruit Juice
+forestry:fluid.milk, Milk
+forestry:fluid.seed.oil, Seed Oil
+forestry:fluid.short.mead, Short Mead
+forestry:can, item.for.can.name
+forestry:capsule, item.for.capsule.name
+forestry:refractory, item.for.refractory.name
 forestry:bottler:0, Bottler
 forestry:carpenter:0, Carpenter
 forestry:centrifuge:0, Centrifuge
@@ -1945,20 +2090,22 @@ forestry:still:0, Still
 forestry:rainmaker:0, Rainmaker
 forestry:fabricator:0, Thermionic Fabricator
 forestry:raintank:0, Rain Tank
-forestry:greenhouse:0, Greenhouse Block
-forestry:greenhouse:3, Greenhouse Energy Distributor
-forestry:greenhouse:4, Greenhouse Control
-forestry:greenhouse:5, Greenhouse Screen
-forestry:climatiser:0, Greenhouse Hygroregulator
-forestry:climatiser:1, Greenhouse Heater
-forestry:climatiser:2, Greenhouse Fan
-forestry:climatiser:3, Greenhouse Humidifier
-forestry:climatiser:4, Greenhouse Dehumidifier
-forestry:greenhouse.window:0, Greenhouse Window
-forestry:greenhouse.window_up:0, Greenhouse Roof Window
-forestry:honeyed_slice, Honeyed Slice
-forestry:ambrosia, Ambrosia
-forestry:honey_pot, Honey Pot
+forestry:habitat_former:0, Habitat Former
+forestry:habitat_screen, Habitat Screen
+forestry:book_forester, Forester's Manual
+forestry:genetic_filter:0, Genetic Filter
+forestry:stamps:0, Stamp (1n)
+forestry:stamps:1, Stamp (2n)
+forestry:stamps:2, Stamp (5n)
+forestry:stamps:3, Stamp (10n)
+forestry:stamps:4, Stamp (20n)
+forestry:stamps:5, Stamp (50n)
+forestry:stamps:6, Stamp (100n)
+forestry:letters, Letter
+forestry:catalogue, Catalogue
+forestry:mailbox:0, Mailbox
+forestry:trade_station:0, Trade Station
+forestry:stamp_collector:0, Stamp Collector
 forestry:grafter, Grafter
 forestry:grafter_proven, Proven Grafter
 forestry:logs.0:0, Larch Wood
@@ -2414,163 +2561,16 @@ forestry:tree_chest:0, Arborist's Chest
 forestry:butterfly_chest:0, Lepidopterist's Chest
 forestry:cocoon:0, tile.for.cocoon.name
 forestry:cocoon.solid:0, tile.for.cocoon.solid.name
-forestry:fluid.bio.ethanol, Ethanol
-forestry:fluid.biomass, Biomass
-forestry:fluid.glass, Liquid Glass
-forestry:fluid.for.honey, Honey
-forestry:fluid.ice, Crushed Ice
-forestry:fluid.juice, Fruit Juice
-forestry:fluid.milk, Milk
-forestry:fluid.seed.oil, Seed Oil
-forestry:fluid.short.mead, Short Mead
-forestry:can, item.for.can.name
-forestry:capsule, item.for.capsule.name
-forestry:refractory, item.for.refractory.name
-forestry:engine_peat:0, Peat-fired Engine
-forestry:engine_biogas:0, Biogas Engine
-forestry:engine_clockwork:0, Clockwork Engine
-forestry:stamps:0, Stamp (1n)
-forestry:stamps:1, Stamp (2n)
-forestry:stamps:2, Stamp (5n)
-forestry:stamps:3, Stamp (10n)
-forestry:stamps:4, Stamp (20n)
-forestry:stamps:5, Stamp (50n)
-forestry:stamps:6, Stamp (100n)
-forestry:letters, Letter
-forestry:catalogue, Catalogue
-forestry:mailbox:0, Mailbox
-forestry:trade_station:0, Trade Station
-forestry:stamp_collector:0, Stamp Collector
-forestry:habitat_locator, Habitat Locator
-forestry:imprinter, Imprinter
-forestry:cart.beehouse:0, Minecart with Bee House
-forestry:cart.beehouse:1, Minecart with Apiary
-forestry:frame_untreated, Untreated Frame
-forestry:frame_impregnated, Impregnated Frame
-forestry:frame_proven, Proven Frame
-forestry:honey_drop:0, Honey Drop
-forestry:pollen:0, Pollen Cluster
-forestry:pollen:1, Crystalline Pollen Cluster
-forestry:propolis:0, Propolis
-forestry:propolis:1, Sticky Propolis
-forestry:propolis:3, Silky Propolis
-forestry:honeydew, Honeydew
-forestry:royal_jelly, Royal Jelly
-forestry:wax_cast, Wax Cast
-forestry:bee_combs:0, Honey Comb
-forestry:bee_combs:2, Simmering Comb
-forestry:bee_combs:3, Stringy Comb
-forestry:bee_combs:4, Frozen Comb
-forestry:bee_combs:5, Dripping Comb
-forestry:bee_combs:6, Silky Comb
-forestry:bee_combs:7, Parched Comb
-forestry:bee_combs:15, Mossy Comb
-forestry:bee_combs:16, Mellow Comb
-forestry:apiarist_helmet, Apiarist's Hat
-forestry:apiarist_chest, Apiarist's Shirt
-forestry:apiarist_legs, Apiarist's Pants
-forestry:apiarist_boots, Apiarist's Shoes
-forestry:scoop, Scoop
-forestry:smoker, Bee Smoker
-forestry:apiary:0, Apiary
-forestry:bee_house:0, Bee House
-forestry:bee_chest:0, Apiarist's Chest
-forestry:beehives:0, Forest Hive
-forestry:beehives:1, Meadows Hive
-forestry:beehives:2, Modest Hive
-forestry:beehives:3, Tropical Hive
-forestry:beehives:4, Ender Hive
-forestry:beehives:5, Wintry Hive
-forestry:beehives:6, Marshy Hive
-forestry:candle:0, Unlit Candle
-forestry:stump:0, Candle Stump
-forestry:bee_combs_0:0, Honey Comb Block
-forestry:bee_combs_0:2, Simmering Comb Block
-forestry:bee_combs_0:3, Stringy Comb Block
-forestry:bee_combs_0:4, Frozen Comb Block
-forestry:bee_combs_0:5, Dripping Comb Block
-forestry:bee_combs_0:6, Silky Comb Block
-forestry:bee_combs_0:7, Parched Comb Block
-forestry:bee_combs_0:15, Mossy Comb Block
-forestry:bee_combs_1:0, Mellow Comb Block
-forestry:alveary.plain:0, Alveary
-forestry:alveary.swarmer:0, Alveary Swarmer
-forestry:alveary.fan:0, Alveary Fan
-forestry:alveary.heater:0, Alveary Heater
-forestry:alveary.hygro:0, Alveary Hygroregulator
-forestry:alveary.stabiliser:0, Alveary Stabiliser
-forestry:alveary.sieve:0, Alveary Sieve
-forestry:mushroom:0, tile.for.mushroom.name
-forestry:mushroom:1, tile.for.mushroom.name
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:0, Farm Block
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:2, Farm Gearbox
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:3, Farm Hatch
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:4, Farm Valve
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:ffarm:5, Farm Control
-forestry:arboretum:0, Arboretum (Managed)
-forestry:arboretum:1, Arboretum (Manual)
-forestry:farm_crops:0, Farm (Managed)
-forestry:farm_crops:1, Farm (Manual)
-forestry:farm_mushroom:0, Mushroom Farm (Managed)
-forestry:farm_mushroom:1, Mushroom Farm (Manual)
-forestry:farm_gourd:0, Gourd Farm (Managed)
-forestry:farm_gourd:1, Gourd Farm (Manual)
-forestry:farm_nether:0, Infernal Farm (Managed)
-forestry:farm_nether:1, Infernal Farm (Manual)
-forestry:farm_ender:0, Ender Farm (Managed)
-forestry:farm_ender:1, Ender Farm (Manual)
-forestry:peat_bog:0, Peat Bog (Managed)
-forestry:peat_bog:1, Peat Bog (Manual)
+forestry:database:0, Database
+forestry:charcoal:0, Block of Charcoal
+forestry:wood_pile:0, Wood Pile
+forestry:wood_pile_decorative:0, Decorative Wood Pile
+forestry:ash_block_0:0, Ash Block
+forestry:ash_block_1:0, Ash Block
+forestry:ash_block_2:0, Ash Block
+forestry:ash_block_3:0, Ash Block
+forestry:loam:0, Loam
+forestry:worktable:0, Worktable
 enderstorage:ender_storage:0, Ender Chest
 enderstorage:ender_storage:1, Ender Tank
 enderstorage:ender_pouch, Ender Pouch
@@ -3945,10 +3945,16 @@ thermaldynamics:cover:0, Block of Tin Cover
 thermaldynamics:cover:0, Block of Bronze Cover
 thermaldynamics:cover:0, Ash Bricks Cover
 thermaldynamics:cover:0, Ash Brick Stairs Cover
-thermaldynamics:cover:0, Block of Charcoal Cover
-thermaldynamics:cover:0, Wood Pile Cover
-thermaldynamics:cover:0, Decorative Wood Pile Cover
-thermaldynamics:cover:0, Loam Cover
+thermaldynamics:cover:0, Candle Stump Cover
+thermaldynamics:cover:0, Honey Comb Block Cover
+thermaldynamics:cover:0, Simmering Comb Block Cover
+thermaldynamics:cover:0, Stringy Comb Block Cover
+thermaldynamics:cover:0, Frozen Comb Block Cover
+thermaldynamics:cover:0, Dripping Comb Block Cover
+thermaldynamics:cover:0, Silky Comb Block Cover
+thermaldynamics:cover:0, Parched Comb Block Cover
+thermaldynamics:cover:0, Mossy Comb Block Cover
+thermaldynamics:cover:0, Mellow Comb Block Cover
 thermaldynamics:cover:0, Larch Wood Cover
 thermaldynamics:cover:0, Teak Wood Cover
 thermaldynamics:cover:0, Desert Acacia Wood Cover
@@ -4397,16 +4403,10 @@ thermaldynamics:cover:0, Sipiri Leaves Cover
 thermaldynamics:cover:0, Papaya Leaves Cover
 thermaldynamics:cover:0, Date Palm Leaves Cover
 thermaldynamics:cover:0, White Poplar Leaves Cover
-thermaldynamics:cover:0, Candle Stump Cover
-thermaldynamics:cover:0, Honey Comb Block Cover
-thermaldynamics:cover:0, Simmering Comb Block Cover
-thermaldynamics:cover:0, Stringy Comb Block Cover
-thermaldynamics:cover:0, Frozen Comb Block Cover
-thermaldynamics:cover:0, Dripping Comb Block Cover
-thermaldynamics:cover:0, Silky Comb Block Cover
-thermaldynamics:cover:0, Parched Comb Block Cover
-thermaldynamics:cover:0, Mossy Comb Block Cover
-thermaldynamics:cover:0, Mellow Comb Block Cover
+thermaldynamics:cover:0, Block of Charcoal Cover
+thermaldynamics:cover:0, Wood Pile Cover
+thermaldynamics:cover:0, Decorative Wood Pile Cover
+thermaldynamics:cover:0, Loam Cover
 thermaldynamics:cover:0, Magical Planks Cover
 thermaldynamics:cover:0, Magical Wood Cover
 thermaldynamics:cover:0, Diagonal Wood Cover
@@ -7443,14 +7443,6 @@ appliedenergistics2:facade:0, Cable Facade - Block of Copper
 appliedenergistics2:facade:0, Cable Facade - Block of Tin
 appliedenergistics2:facade:0, Cable Facade - Block of Bronze
 appliedenergistics2:facade:0, Cable Facade - Ash Bricks
-appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
-appliedenergistics2:facade:0, Cable Facade - Wood Pile
-appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Ash Block
-appliedenergistics2:facade:0, Cable Facade - Loam
 appliedenergistics2:facade:0, Cable Facade - Greenhouse Block
 appliedenergistics2:facade:0, Cable Facade - Greenhouse Energy Distributor
 appliedenergistics2:facade:0, Cable Facade - Greenhouse Control
@@ -7460,6 +7452,15 @@ appliedenergistics2:facade:0, Cable Facade - Greenhouse Heater
 appliedenergistics2:facade:0, Cable Facade - Greenhouse Fan
 appliedenergistics2:facade:0, Cable Facade - Greenhouse Humidifier
 appliedenergistics2:facade:0, Cable Facade - Greenhouse Dehumidifier
+appliedenergistics2:facade:0, Cable Facade - Honey Comb Block
+appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block
+appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block
+appliedenergistics2:facade:0, Cable Facade - Frozen Comb Block
+appliedenergistics2:facade:0, Cable Facade - Dripping Comb Block
+appliedenergistics2:facade:0, Cable Facade - Silky Comb Block
+appliedenergistics2:facade:0, Cable Facade - Parched Comb Block
+appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block
+appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block
 appliedenergistics2:facade:0, Cable Facade - Larch Wood
 appliedenergistics2:facade:0, Cable Facade - Teak Wood
 appliedenergistics2:facade:0, Cable Facade - Desert Acacia Wood
@@ -7623,15 +7624,14 @@ appliedenergistics2:facade:0, Cable Facade - Sipiri Leaves
 appliedenergistics2:facade:0, Cable Facade - Papaya Leaves
 appliedenergistics2:facade:0, Cable Facade - Date Palm Leaves
 appliedenergistics2:facade:0, Cable Facade - White Poplar Leaves
-appliedenergistics2:facade:0, Cable Facade - Honey Comb Block
-appliedenergistics2:facade:0, Cable Facade - Simmering Comb Block
-appliedenergistics2:facade:0, Cable Facade - Stringy Comb Block
-appliedenergistics2:facade:0, Cable Facade - Frozen Comb Block
-appliedenergistics2:facade:0, Cable Facade - Dripping Comb Block
-appliedenergistics2:facade:0, Cable Facade - Silky Comb Block
-appliedenergistics2:facade:0, Cable Facade - Parched Comb Block
-appliedenergistics2:facade:0, Cable Facade - Mossy Comb Block
-appliedenergistics2:facade:0, Cable Facade - Mellow Comb Block
+appliedenergistics2:facade:0, Cable Facade - Block of Charcoal
+appliedenergistics2:facade:0, Cable Facade - Wood Pile
+appliedenergistics2:facade:0, Cable Facade - Decorative Wood Pile
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Ash Block
+appliedenergistics2:facade:0, Cable Facade - Loam
 appliedenergistics2:facade:0, Cable Facade - Magical Planks
 appliedenergistics2:facade:0, Cable Facade - Magical Wood
 appliedenergistics2:facade:0, Cable Facade - Diagonal Wood
@@ -11461,41 +11461,41 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Leggings Core Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Polishing Kit Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Armor Plates Pattern
+tconstruct:pattern:0, Hand Guard Pattern
 tconstruct:pattern:0, Scythe Head Pattern
 tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Tough Binding Pattern
-tconstruct:pattern:0, Polishing Kit Pattern
-tconstruct:pattern:0, Armor Plates Pattern
-tconstruct:pattern:0, Chestplate Core Pattern
-tconstruct:pattern:0, Helmet Core Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
 tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Knife Blade Pattern
-tconstruct:pattern:0, Boots Core Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Armor Trim Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Helmet Core Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Leggings Core Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Boots Core Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Chestplate Core Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
 tconstruct:shard:0, Electrical Shard
 tconstruct:shard:0, Energetic Shard
 tconstruct:shard:0, Vibrant Shard
@@ -13099,78 +13099,78 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Leggings Core Cast
-tconstruct:cast:0, Bowstring Cast
-tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Polishing Kit Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Armor Plates Cast
+tconstruct:cast:0, Hand Guard Cast
 tconstruct:cast:0, Scythe Head Cast
 tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Tough Binding Cast
-tconstruct:cast:0, Polishing Kit Cast
-tconstruct:cast:0, Armor Plates Cast
-tconstruct:cast:0, Chestplate Core Cast
-tconstruct:cast:0, Helmet Core Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Shovel Head Cast
 tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Knife Blade Cast
-tconstruct:cast:0, Boots Core Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Armor Trim Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Helmet Core Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Leggings Core Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Bowstring Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Boots Core Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Chestplate Core Cast
+tconstruct:cast:0, Pickaxe Head Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Leggings Core Clay Cast
-tconstruct:clay_cast:0, Bowstring Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Polishing Kit Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Armor Plates Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
 tconstruct:clay_cast:0, Scythe Head Clay Cast
 tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
-tconstruct:clay_cast:0, Polishing Kit Clay Cast
-tconstruct:clay_cast:0, Armor Plates Clay Cast
-tconstruct:clay_cast:0, Chestplate Core Clay Cast
-tconstruct:clay_cast:0, Helmet Core Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
 tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
-tconstruct:clay_cast:0, Boots Core Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Armor Trim Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Helmet Core Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Leggings Core Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Bowstring Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Boots Core Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Chestplate Core Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -14851,6 +14851,386 @@ embers:ore_tin, Tin Ore
 embers:seed_tin, Tin Crystal Seed
 embers:explosion_pedestal, Explosion Charm Pedestal
 mcjtylib_ng:multipart, tile.mcjtylib_ng.multipart.name
+mekores:mekanismore:0, Uranium Crystal
+mekores:mekanismore:1, Uranium Shard
+mekores:mekanismore:2, Uranium Clump
+mekores:mekanismore:3, Dirty Uranium Dust
+mekores:mekanismore:4, Uranium Dust
+mekores:mekanismore:5, Yellorium Crystal
+mekores:mekanismore:6, Yellorium Shard
+mekores:mekanismore:7, Yellorium Clump
+mekores:mekanismore:8, Dirty Yellorium Dust
+mekores:mekanismore:9, Yellorium Dust
+mekores:mekanismore:10, Nickel Crystal
+mekores:mekanismore:11, Nickel Shard
+mekores:mekanismore:12, Nickel Clump
+mekores:mekanismore:13, Dirty Nickel Dust
+mekores:mekanismore:14, Nickel Dust
+mekores:mekanismore:15, Platinum Crystal
+mekores:mekanismore:16, Platinum Shard
+mekores:mekanismore:17, Platinum Clump
+mekores:mekanismore:18, Dirty Platinum Dust
+mekores:mekanismore:19, Platinum Dust
+mekores:mekanismore:20, Iridium Crystal
+mekores:mekanismore:21, Iridium Shard
+mekores:mekanismore:22, Iridium Clump
+mekores:mekanismore:23, Dirty Iridium Dust
+mekores:mekanismore:24, Iridium Dust
+mekores:mekanismore:25, Mithril Crystal
+mekores:mekanismore:26, Mithril Shard
+mekores:mekanismore:27, Mithril Clump
+mekores:mekanismore:28, Dirty Mithril Dust
+mekores:mekanismore:29, Mithril Dust
+mekores:mekanismore:30, Aluminum Crystal
+mekores:mekanismore:31, Aluminum Shard
+mekores:mekanismore:32, Aluminum Clump
+mekores:mekanismore:33, Dirty Aluminum Dust
+mekores:mekanismore:34, Aluminum Dust
+mekores:mekanismore:35, Cobalt Crystal
+mekores:mekanismore:36, Cobalt Shard
+mekores:mekanismore:37, Cobalt Clump
+mekores:mekanismore:38, Dirty Cobalt Dust
+mekores:mekanismore:39, Cobalt Dust
+mekores:mekanismore:40, Ardite Crystal
+mekores:mekanismore:41, Ardite Shard
+mekores:mekanismore:42, Ardite Clump
+mekores:mekanismore:43, Dirty Ardite Dust
+mekores:mekanismore:44, Ardite Dust
+mekores:mekanismore:45, Starmetal Crystal
+mekores:mekanismore:46, Starmetal Shard
+mekores:mekanismore:47, Starmetal Clump
+mekores:mekanismore:48, Dirty Starmetal Dust
+mekores:mekanismore:49, Starmetal Dust
+mekores:mekanismore:50, Draconium Crystal
+mekores:mekanismore:51, Draconium Shard
+mekores:mekanismore:52, Draconium Clump
+mekores:mekanismore:53, Dirty Draconium Dust
+mekores:mekanismore:54, Draconium Dust
+mekores:mekanismore:55, Beryllium Crystal
+mekores:mekanismore:56, Beryllium Shard
+mekores:mekanismore:57, Beryllium Clump
+mekores:mekanismore:58, Dirty Beryllium Dust
+mekores:mekanismore:59, Beryllium Dust
+mekores:mekanismore:60, Boron Crystal
+mekores:mekanismore:61, Boron Shard
+mekores:mekanismore:62, Boron Clump
+mekores:mekanismore:63, Dirty Boron Dust
+mekores:mekanismore:64, Boron Dust
+mekores:mekanismore:65, Lithium Crystal
+mekores:mekanismore:66, Lithium Shard
+mekores:mekanismore:67, Lithium Clump
+mekores:mekanismore:68, Dirty Lithium Dust
+mekores:mekanismore:69, Lithium Dust
+mekores:mekanismore:70, Magnesium Crystal
+mekores:mekanismore:71, Magnesium Shard
+mekores:mekanismore:72, Magnesium Clump
+mekores:mekanismore:73, Dirty Magnesium Dust
+mekores:mekanismore:74, Magnesium Dust
+mekores:mekanismore:75, Thorium Crystal
+mekores:mekanismore:76, Thorium Shard
+mekores:mekanismore:77, Thorium Clump
+mekores:mekanismore:78, Dirty Thorium Dust
+mekores:mekanismore:79, Thorium Dust
+mekores:mekanismore:80, Zirconium Crystal
+mekores:mekanismore:81, Zirconium Shard
+mekores:mekanismore:82, Zirconium Clump
+mekores:mekanismore:83, Dirty Zirconium Dust
+mekores:mekanismore:84, Zirconium Dust
+mekores:mekanismore:85, Titanium Crystal
+mekores:mekanismore:86, Titanium Shard
+mekores:mekanismore:87, Titanium Clump
+mekores:mekanismore:88, Dirty Titanium Dust
+mekores:mekanismore:89, Titanium Dust
+mekores:mekanismore:90, Desh Crystal
+mekores:mekanismore:91, Desh Shard
+mekores:mekanismore:92, Desh Clump
+mekores:mekanismore:93, Dirty Desh Dust
+mekores:mekanismore:94, Desh Dust
+mekores:mekanismore:95, Carbon Crystal
+mekores:mekanismore:96, Carbon Shard
+mekores:mekanismore:97, Carbon Clump
+mekores:mekanismore:98, Dirty Carbon Dust
+mekores:mekanismore:99, Carbon Dust
+mekores:mekanismore:100, Dark Iron Crystal
+mekores:mekanismore:101, Dark Iron Shard
+mekores:mekanismore:102, Dark Iron Clump
+mekores:mekanismore:103, Dirty Dark Iron Dust
+mekores:mekanismore:104, Dark Iron Dust
+mekores:mekanismore:105, Tungsten Crystal
+mekores:mekanismore:106, Tungsten Shard
+mekores:mekanismore:107, Tungsten Clump
+mekores:mekanismore:108, Dirty Tungsten Dust
+mekores:mekanismore:109, Tungsten Dust
+mekores:mekanismore:110, Zinc Crystal
+mekores:mekanismore:111, Zinc Shard
+mekores:mekanismore:112, Zinc Clump
+mekores:mekanismore:113, Dirty Zinc Dust
+mekores:mekanismore:114, Zinc Dust
+mekores:mekanismore:115, Mercury Crystal
+mekores:mekanismore:116, Mercury Shard
+mekores:mekanismore:117, Mercury Clump
+mekores:mekanismore:118, Dirty Mercury Dust
+mekores:mekanismore:119, Mercury Dust
+mekores:mekanismore:120, Palladium Crystal
+mekores:mekanismore:121, Palladium Shard
+mekores:mekanismore:122, Palladium Clump
+mekores:mekanismore:123, Dirty Palladium Dust
+mekores:mekanismore:124, Palladium Dust
+mekores:mekanismore:125, Dilithium Crystal
+mekores:mekanismore:126, Dilithium Shard
+mekores:mekanismore:127, Dilithium Clump
+mekores:mekanismore:128, Dirty Dilithium Dust
+mekores:mekanismore:129, Dilithium Dust
+mekores:mekanismore:130, Adamantine Crystal
+mekores:mekanismore:131, Adamantine Shard
+mekores:mekanismore:132, Adamantine Clump
+mekores:mekanismore:133, Dirty Adamantine Dust
+mekores:mekanismore:134, Adamantine Dust
+mekores:mekanismore:135, Alduorite Crystal
+mekores:mekanismore:136, Alduorite Shard
+mekores:mekanismore:137, Alduorite Clump
+mekores:mekanismore:138, Dirty Alduorite Dust
+mekores:mekanismore:139, Alduorite Dust
+mekores:mekanismore:140, Astral Silver Crystal
+mekores:mekanismore:141, Astral Silver Shard
+mekores:mekanismore:142, Astral Silver Clump
+mekores:mekanismore:143, Dirty Astral Silver Dust
+mekores:mekanismore:144, Astral Silver Dust
+mekores:mekanismore:145, Atlarus Crystal
+mekores:mekanismore:146, Atlarus Shard
+mekores:mekanismore:147, Atlarus Clump
+mekores:mekanismore:148, Dirty Atlarus Dust
+mekores:mekanismore:149, Atlarus Dust
+mekores:mekanismore:150, Carmot Crystal
+mekores:mekanismore:151, Carmot Shard
+mekores:mekanismore:152, Carmot Clump
+mekores:mekanismore:153, Dirty Carmot Dust
+mekores:mekanismore:154, Carmot Dust
+mekores:mekanismore:155, Ceruclase Crystal
+mekores:mekanismore:156, Ceruclase Shard
+mekores:mekanismore:157, Ceruclase Clump
+mekores:mekanismore:158, Dirty Ceruclase Dust
+mekores:mekanismore:159, Ceruclase Dust
+mekores:mekanismore:160, Deep Iron Crystal
+mekores:mekanismore:161, Deep Iron Shard
+mekores:mekanismore:162, Deep Iron Clump
+mekores:mekanismore:163, Dirty Deep Iron Dust
+mekores:mekanismore:164, Deep Iron Dust
+mekores:mekanismore:165, Eximite Crystal
+mekores:mekanismore:166, Eximite Shard
+mekores:mekanismore:167, Eximite Clump
+mekores:mekanismore:168, Dirty Eximite Dust
+mekores:mekanismore:169, Eximite Dust
+mekores:mekanismore:170, Ignatius Crystal
+mekores:mekanismore:171, Ignatius Shard
+mekores:mekanismore:172, Ignatius Clump
+mekores:mekanismore:173, Dirty Ignatius Dust
+mekores:mekanismore:174, Ignatius Dust
+mekores:mekanismore:175, Infuscolium Crystal
+mekores:mekanismore:176, Infuscolium Shard
+mekores:mekanismore:177, Infuscolium Clump
+mekores:mekanismore:178, Dirty Infuscolium Dust
+mekores:mekanismore:179, Infuscolium Dust
+mekores:mekanismore:180, Kalendrite Crystal
+mekores:mekanismore:181, Kalendrite Shard
+mekores:mekanismore:182, Kalendrite Clump
+mekores:mekanismore:183, Dirty Kalendrite Dust
+mekores:mekanismore:184, Kalendrite Dust
+mekores:mekanismore:185, Lemurite Crystal
+mekores:mekanismore:186, Lemurite Shard
+mekores:mekanismore:187, Lemurite Clump
+mekores:mekanismore:188, Dirty Lemurite Dust
+mekores:mekanismore:189, Lemurite Dust
+mekores:mekanismore:190, Manganese Crystal
+mekores:mekanismore:191, Manganese Shard
+mekores:mekanismore:192, Manganese Clump
+mekores:mekanismore:193, Dirty Manganese Dust
+mekores:mekanismore:194, Manganese Dust
+mekores:mekanismore:195, Meutoite Crystal
+mekores:mekanismore:196, Meutoite Shard
+mekores:mekanismore:197, Meutoite Clump
+mekores:mekanismore:198, Dirty Meutoite Dust
+mekores:mekanismore:199, Meutoite Dust
+mekores:mekanismore:200, Midasium Crystal
+mekores:mekanismore:201, Midasium Shard
+mekores:mekanismore:202, Midasium Clump
+mekores:mekanismore:203, Dirty Midasium Dust
+mekores:mekanismore:204, Midasium Dust
+mekores:mekanismore:205, Orichalcum Crystal
+mekores:mekanismore:206, Orichalcum Shard
+mekores:mekanismore:207, Orichalcum Clump
+mekores:mekanismore:208, Dirty Orichalcum Dust
+mekores:mekanismore:209, Orichalcum Dust
+mekores:mekanismore:210, Oureclase Crystal
+mekores:mekanismore:211, Oureclase Shard
+mekores:mekanismore:212, Oureclase Clump
+mekores:mekanismore:213, Dirty Oureclase Dust
+mekores:mekanismore:214, Oureclase Dust
+mekores:mekanismore:215, Prometheum Crystal
+mekores:mekanismore:216, Prometheum Shard
+mekores:mekanismore:217, Prometheum Clump
+mekores:mekanismore:218, Dirty Prometheum Dust
+mekores:mekanismore:219, Prometheum Dust
+mekores:mekanismore:220, Rubracium Crystal
+mekores:mekanismore:221, Rubracium Shard
+mekores:mekanismore:222, Rubracium Clump
+mekores:mekanismore:223, Dirty Rubracium Dust
+mekores:mekanismore:224, Rubracium Dust
+mekores:mekanismore:225, Sanguinite Crystal
+mekores:mekanismore:226, Sanguinite Shard
+mekores:mekanismore:227, Sanguinite Clump
+mekores:mekanismore:228, Dirty Sanguinite Dust
+mekores:mekanismore:229, Sanguinite Dust
+mekores:mekanismore:230, Shadow Iron Crystal
+mekores:mekanismore:231, Shadow Iron Shard
+mekores:mekanismore:232, Shadow Iron Clump
+mekores:mekanismore:233, Dirty Shadow Iron Dust
+mekores:mekanismore:234, Shadow Iron Dust
+mekores:mekanismore:235, Vulcanite Crystal
+mekores:mekanismore:236, Vulcanite Shard
+mekores:mekanismore:237, Vulcanite Clump
+mekores:mekanismore:238, Dirty Vulcanite Dust
+mekores:mekanismore:239, Vulcanite Dust
+mekores:mekanismore:240, Vyroxeres Crystal
+mekores:mekanismore:241, Vyroxeres Shard
+mekores:mekanismore:242, Vyroxeres Clump
+mekores:mekanismore:243, Dirty Vyroxeres Dust
+mekores:mekanismore:244, Vyroxeres Dust
+mekores:mekanismore:245, Tiberium Crystal
+mekores:mekanismore:246, Tiberium Shard
+mekores:mekanismore:247, Tiberium Clump
+mekores:mekanismore:248, Dirty Tiberium Dust
+mekores:mekanismore:249, Tiberium Dust
+mekores:mekanismore:250, Aurorium Crystal
+mekores:mekanismore:251, Aurorium Shard
+mekores:mekanismore:252, Aurorium Clump
+mekores:mekanismore:253, Dirty Aurorium Dust
+mekores:mekanismore:254, Aurorium Dust
+mekores:mekanismore:255, Duranite Crystal
+mekores:mekanismore:256, Duranite Shard
+mekores:mekanismore:257, Duranite Clump
+mekores:mekanismore:258, Dirty Duranite Dust
+mekores:mekanismore:259, Duranite Dust
+mekores:mekanismore:260, Valyrium Crystal
+mekores:mekanismore:261, Valyrium Shard
+mekores:mekanismore:262, Valyrium Clump
+mekores:mekanismore:263, Dirty Valyrium Dust
+mekores:mekanismore:264, Valyrium Dust
+mekores:mekanismore:265, Vibranium Crystal
+mekores:mekanismore:266, Vibranium Shard
+mekores:mekanismore:267, Vibranium Clump
+mekores:mekanismore:268, Dirty Vibranium Dust
+mekores:mekanismore:269, Vibranium Dust
+mekores:mekanismore:270, Karmesine Crystal
+mekores:mekanismore:271, Karmesine Shard
+mekores:mekanismore:272, Karmesine Clump
+mekores:mekanismore:273, Dirty Karmesine Dust
+mekores:mekanismore:274, Karmesine Dust
+mekores:mekanismore:275, Ovium Crystal
+mekores:mekanismore:276, Ovium Shard
+mekores:mekanismore:277, Ovium Clump
+mekores:mekanismore:278, Dirty Ovium Dust
+mekores:mekanismore:279, Ovium Dust
+mekores:mekanismore:280, Jauxum Crystal
+mekores:mekanismore:281, Jauxum Shard
+mekores:mekanismore:282, Jauxum Clump
+mekores:mekanismore:283, Dirty Jauxum Dust
+mekores:mekanismore:284, Jauxum Dust
+mekores:mekanismore:285, Uru Crystal
+mekores:mekanismore:286, Uru Shard
+mekores:mekanismore:287, Uru Clump
+mekores:mekanismore:288, Dirty Uru Dust
+mekores:mekanismore:289, Uru Dust
+mekores:mekanismore:290, Osram Crystal
+mekores:mekanismore:291, Osram Shard
+mekores:mekanismore:292, Osram Clump
+mekores:mekanismore:293, Dirty Osram Dust
+mekores:mekanismore:294, Osram Dust
+mekores:mekanismore:295, Eezo Crystal
+mekores:mekanismore:296, Eezo Shard
+mekores:mekanismore:297, Eezo Clump
+mekores:mekanismore:298, Dirty Eezo Dust
+mekores:mekanismore:299, Eezo Dust
+mekores:mekanismore:300, Abyssum Crystal
+mekores:mekanismore:301, Abyssum Shard
+mekores:mekanismore:302, Abyssum Clump
+mekores:mekanismore:303, Dirty Abyssum Dust
+mekores:mekanismore:304, Abyssum Dust
+mekores:mekanismore:305, Vanadium Crystal
+mekores:mekanismore:306, Vanadium Shard
+mekores:mekanismore:307, Vanadium Clump
+mekores:mekanismore:308, Dirty Vanadium Dust
+mekores:mekanismore:309, Vanadium Dust
+mekores:mekanismore:310, Baronyte Crystal
+mekores:mekanismore:311, Baronyte Shard
+mekores:mekanismore:312, Baronyte Clump
+mekores:mekanismore:313, Dirty Baronyte Dust
+mekores:mekanismore:314, Baronyte Dust
+mekores:mekanismore:315, Blazium Crystal
+mekores:mekanismore:316, Blazium Shard
+mekores:mekanismore:317, Blazium Clump
+mekores:mekanismore:318, Dirty Blazium Dust
+mekores:mekanismore:319, Blazium Dust
+mekores:mekanismore:320, Elecanium Crystal
+mekores:mekanismore:321, Elecanium Shard
+mekores:mekanismore:322, Elecanium Clump
+mekores:mekanismore:323, Dirty Elecanium Dust
+mekores:mekanismore:324, Elecanium Dust
+mekores:mekanismore:325, Emberstone Crystal
+mekores:mekanismore:326, Emberstone Shard
+mekores:mekanismore:327, Emberstone Clump
+mekores:mekanismore:328, Dirty Emberstone Dust
+mekores:mekanismore:329, Emberstone Dust
+mekores:mekanismore:330, Ghastly Crystal
+mekores:mekanismore:331, Ghastly Shard
+mekores:mekanismore:332, Ghastly Clump
+mekores:mekanismore:333, Dirty Ghastly Dust
+mekores:mekanismore:334, Ghastly Dust
+mekores:mekanismore:335, Ghoulish Crystal
+mekores:mekanismore:336, Ghoulish Shard
+mekores:mekanismore:337, Ghoulish Clump
+mekores:mekanismore:338, Dirty Ghoulish Dust
+mekores:mekanismore:339, Ghoulish Dust
+mekores:mekanismore:340, Limonite Crystal
+mekores:mekanismore:341, Limonite Shard
+mekores:mekanismore:342, Limonite Clump
+mekores:mekanismore:343, Dirty Limonite Dust
+mekores:mekanismore:344, Limonite Dust
+mekores:mekanismore:345, Lyon Crystal
+mekores:mekanismore:346, Lyon Shard
+mekores:mekanismore:347, Lyon Clump
+mekores:mekanismore:348, Dirty Lyon Dust
+mekores:mekanismore:349, Lyon Dust
+mekores:mekanismore:350, Mystite Crystal
+mekores:mekanismore:351, Mystite Shard
+mekores:mekanismore:352, Mystite Clump
+mekores:mekanismore:353, Dirty Mystite Dust
+mekores:mekanismore:354, Mystite Dust
+mekores:mekanismore:355, Rosite Crystal
+mekores:mekanismore:356, Rosite Shard
+mekores:mekanismore:357, Rosite Clump
+mekores:mekanismore:358, Dirty Rosite Dust
+mekores:mekanismore:359, Rosite Dust
+mekores:mekanismore:360, Shyrestone Crystal
+mekores:mekanismore:361, Shyrestone Shard
+mekores:mekanismore:362, Shyrestone Clump
+mekores:mekanismore:363, Dirty Shyrestone Dust
+mekores:mekanismore:364, Shyrestone Dust
+mekores:mekanismore:365, Varsium Crystal
+mekores:mekanismore:366, Varsium Shard
+mekores:mekanismore:367, Varsium Clump
+mekores:mekanismore:368, Dirty Varsium Dust
+mekores:mekanismore:369, Varsium Dust
+mekores:mekanismore:370, Tritanium Crystal
+mekores:mekanismore:371, Tritanium Shard
+mekores:mekanismore:372, Tritanium Clump
+mekores:mekanismore:373, Dirty Tritanium Dust
+mekores:mekanismore:374, Tritanium Dust
+mekores:mekanismore:375, Lutetium Crystal
+mekores:mekanismore:376, Lutetium Shard
+mekores:mekanismore:377, Lutetium Clump
+mekores:mekanismore:378, Dirty Lutetium Dust
+mekores:mekanismore:379, Lutetium Dust
 blockcraftery:editable_block, Framed Block
 blockcraftery:editable_stairs, Framed Stairs
 blockcraftery:editable_slab, Framed Slab
@@ -14937,13 +15317,6 @@ forestry:crated.minecraft.sapling.2, item.crated.minecraft.sapling.2.name
 forestry:crated.minecraft.sapling.3, item.crated.minecraft.sapling.3.name
 forestry:crated.minecraft.sapling.4, item.crated.minecraft.sapling.4.name
 forestry:crated.minecraft.sapling.5, item.crated.minecraft.sapling.5.name
-forestry:crated.forestry.fruits.0, item.crated.forestry.fruits.0.name
-forestry:crated.forestry.fruits.1, item.crated.forestry.fruits.1.name
-forestry:crated.forestry.fruits.2, item.crated.forestry.fruits.2.name
-forestry:crated.forestry.fruits.3, item.crated.forestry.fruits.3.name
-forestry:crated.forestry.fruits.4, item.crated.forestry.fruits.4.name
-forestry:crated.forestry.fruits.6, item.crated.forestry.fruits.6.name
-forestry:crated.forestry.fruits.5, item.crated.forestry.fruits.5.name
 forestry:crated.forestry.beeswax.0, item.crated.forestry.beeswax.0.name
 forestry:crated.forestry.pollen.0, item.crated.forestry.pollen.0.name
 forestry:crated.forestry.pollen.1, item.crated.forestry.pollen.1.name
@@ -14964,6 +15337,13 @@ forestry:crated.forestry.bee_combs.14, item.crated.forestry.bee_combs.14.name
 forestry:crated.forestry.bee_combs.15, item.crated.forestry.bee_combs.15.name
 forestry:crated.forestry.bee_combs.16, item.crated.forestry.bee_combs.16.name
 forestry:crated.forestry.refractory_wax.0, item.crated.forestry.refractory_wax.0.name
+forestry:crated.forestry.fruits.0, item.crated.forestry.fruits.0.name
+forestry:crated.forestry.fruits.1, item.crated.forestry.fruits.1.name
+forestry:crated.forestry.fruits.2, item.crated.forestry.fruits.2.name
+forestry:crated.forestry.fruits.3, item.crated.forestry.fruits.3.name
+forestry:crated.forestry.fruits.4, item.crated.forestry.fruits.4.name
+forestry:crated.forestry.fruits.6, item.crated.forestry.fruits.6.name
+forestry:crated.forestry.fruits.5, item.crated.forestry.fruits.5.name
 forestry:crated.techreborn.part.33, item.crated.techreborn.part.33.name
 forestry:crated.techreborn.uumatter.0, item.crated.techreborn.uumatter.0.name
 forestry:crated.ingotlead, item.crated.ingotLead.name
