@@ -12,3 +12,4 @@ mods.techreborn.rollingMachine.removeRecipe(<minecraft:detector_rail>);
 mods.techreborn.rollingMachine.removeRecipe(<minecraft:activator_rail>);
 mods.techreborn.blastFurnace.removeRecipe(<techreborn:ingot:16>);
 mods.techreborn.blastFurnace.addRecipe(<techreborn:ingot:16>, <techreborn:dust:15>*4, <techreborn:ingot:15>, <ore:ingotSteel>, 2000, 1000, 2800);
+recipes.remove(<mekanism:atomicdisassembler>);
