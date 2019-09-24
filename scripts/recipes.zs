@@ -1,6 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.remove(<advancedrocketry:forcefieldprojector>);
 recipes.remove(<advancedrocketry:rocketmotor>);
 recipes.removeShaped(<advancedrocketry:intake>, [[null, null, null],[null, null, <minecraft:hopper>], [null, null, null]]);
 recipes.remove(<advancedrocketry:satellitebuilder>);

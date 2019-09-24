@@ -1,4 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+<recipe name="Sagmill: Ender Pearl" disabled="true"/>
+<recipe name="Sagmill: Ender Dust" disabled="true"/>
+<recipe name="Ender Dust" disabled="true"/>
 
+ <recipe name="edit ender peal sag" required="false">
+    <sagmilling energy="1600" bonus="none">
+      <input name="oredict:enderpearl"/>
+      <output name="appliedenergistics2:material:46" amount="9"  />
+    </sagmilling>
+  </recipe>
 </enderio:recipes>
